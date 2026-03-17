@@ -1,0 +1,1001 @@
+order_id,user_id,order_date,product,category,quantity,unit_price,payment_method,city
+ORD000001,USR0127,2024-11-26 10:25,OnePlus Nord CE 3,Electronics,1,21910,Credit Card,Vadodara
+ORD000002,USR0005,2024-08-18 12:52,Realme Buds Wireless,Electronics,1,1560,Credit Card,Varanasi
+ORD000003,USR0006,2024-10-19 18:25,Bedsheet King Size,Home & Kitchen,4,1209,Credit Card,Chennai
+ORD000004,USR0046,2024-07-26 05:20,Stainless Steel Casserole,Home & Kitchen,2,1929,UPI,Vadodara
+ORD000005,USR0078,2024-11-19 03:47,NCERT Class 12 Physics,Books & Stationery,4,310,Cash on Delivery,Lucknow
+ORD000006,USR0065,2024-09-18 07:49,Lakme Foundation,Beauty & Personal Care,1,480,UPI,Patna
+ORD000007,USR0067,2024-06-23 17:59,Canvas Backpack,Accessories,1,1689,Cash on Delivery,Kolkata
+ORD000008,USR0099,2024-11-18 21:49,The Alchemist - Paulo Coelho,Books & Stationery,1,269,EMI,Kolkata
+ORD000009,USR0014,2024-12-21 05:34,Cotton Bath Towel Set,Home & Kitchen,3,1449,Credit Card,Agra
+ORD000010,USR0050,2025-03-09 14:06,Bamboo Cutting Board,Home & Kitchen,1,480,Cash on Delivery,Ludhiana
+ORD000011,USR0208,2024-04-27 20:02,NCERT Class 12 Physics,Books & Stationery,1,309,Cash on Delivery,Coimbatore
+ORD000012,USR0241,2024-05-10 06:47,Stainless Steel Casserole,Home & Kitchen,1,1749,UPI,Rajkot
+ORD000013,USR0087,2024-03-27 08:25,Silk Scarf,Accessories,4,809,Credit Card,Lucknow
+ORD000014,USR0005,2024-12-28 21:04,Sticky Notes Multicolor Pack,Books & Stationery,1,190,UPI,Varanasi
+ORD000015,USR0085,2024-04-29 16:21,Non-Stick Tawa 30cm,Home & Kitchen,2,889,UPI,MEERUT
+ORD000016,USR0065,2024-03-24 20:32,Resistance Bands Set,Sports & Fitness,1,600,UPI,Patna
+ORD000017,USR0017,2025-02-02 15:43,Bedsheet King Size,Home & Kitchen,2,2679,Credit Card,Pune
+ORD000018,USR0013,2024-11-13 06:42,Diary / Planner 2025,Books & Stationery,2,370,Cash on Delivery,Thane
+ORD000019,USR0033,2024-09-20 01:16,Lakme Foundation,Beauty & Personal Care,1,889,Credit Card,Hyderabad
+ORD000020,USR0157,2024-06-02 02:52,Cosco Skipping Rope,Sports & Fitness,3,239,Credit Card,Varanasi
+ORD000021,USR0203,2024-05-28 14:38,The Moms Co. Baby Wash,Beauty & Personal Care,1,395,EMI,Faridabad
+ORD000022,USR0011,2024-12-03 23:34,Denim Shorts,Fashion,1,769,UPI,Thane
+ORD000023,USR0089,2024-11-02 01:27,Dustbin with Lid 10L,Home & Kitchen,1,629,Credit Card,Visakhapatnam
+ORD000024,USR0094,2024-07-21 14:15,Portronics Power Bank 10000mAh,Electronics,1,1130,EMI,Patna
+ORD000025,USR0011,2024-06-03 01:05,Parker Pen Gift Set,Books & Stationery,1,1203,Cash on Delivery,Thane
+ORD000026,USR0083,2024-11-25 15:55,Bamboo Cutting Board,Home & Kitchen,2,370,Credit Card,NASHIK
+ORD000027,USR0058,2024-05-26 12:09,Mamaearth Onion Shampoo,Beauty & Personal Care,1,500,UPI,RAJKOT
+ORD000028,USR0113,2025-02-13 12:20,NCERT Class 12 Physics,Books & Stationery,5,259,UPI,Indore
+ORD000029,USR0052,2025-02-04 02:03,Bamboo Cutting Board,Home & Kitchen,2,380,Debit Card,Hyderabad
+ORD000030,USR0140,2024-04-09 12:24,Redmi 12C Smartphone,Electronics,2,10029,Credit Card,Varanasi
+ORD000031,USR0020,2025-01-26 16:31,Sticky Notes Multicolor Pack,Books & Stationery,1,217,Credit Card,Meerut
+ORD000032,USR0164,2025-02-24 14:21,Canvas Backpack,Accessories,3,830,Debit Card,Ahmedabad
+ORD000033,USR0048,2024-08-11 14:58,Biotique Sunscreen SPF 50,Beauty & Personal Care,5,240,Debit Card,Srinagar
+ORD000034,USR0096,2024-07-02 07:40,NCERT Class 12 Physics,Books & Stationery,1,380,UPI,Vadodara
+ORD000035,USR0024,2025-02-06 17:58,Sticky Notes Multicolor Pack,Books & Stationery,2,209,UPI,Amritsar
+ORD000036,USR0036,2025-03-04 22:21,"Samsung 32"" LED TV",Electronics,1,21489,Debit Card,Chennai
+ORD000037,USR0017,2025-03-09 01:26,Denim Shorts,Fashion,1,1339,Cash on Delivery,Pune
+ORD000038,USR0034,2025-02-15 02:06,Atomic Habits - James Clear,Books & Stationery,1,370,Cash on Delivery,Visakhapatnam
+ORD000039,USR0240,2024-07-09 21:06,Non-Stick Tawa 30cm,Home & Kitchen,4,1049,Cash on Delivery,Lucknow
+ORD000040,USR0230,2024-06-24 23:05,Gillette Fusion Razor,Beauty & Personal Care,5,300,UPI,PUNE
+ORD000041,USR0014,2024-10-03 00:19,Airtight Container Set,Home & Kitchen,2,929,UPI,Agra
+ORD000042,USR0014,2025-02-25 19:53,Denim Shorts,Fashion,2,1340,UPI,Agra
+ORD000043,USR0036,2024-12-15 08:07,Himalaya Face Wash,Beauty & Personal Care,1,290,Credit Card,Chennai
+ORD000044,USR0137,2024-05-18 08:00,Sticky Notes Multicolor Pack,Books & Stationery,5,239,Credit Card,Kanpur
+ORD000045,USR0136,2024-09-06 02:13,Bedsheet King Size,Home & Kitchen,1,1079,Cash on Delivery,Mumbai
+ORD000046,USR0126,2024-12-20 13:36,Wall Clock Wooden,Home & Kitchen,1,1080,EMI,Thane
+ORD000047,USR0025,2024-11-29 09:29,Protein Shaker Bottle,Sports & Fitness,4,449,Debit Card,Bhopal
+ORD000048,USR0248,2024-08-14 11:22,Cotton Bath Towel Set,Home & Kitchen,2,890,UPI,Agra
+ORD000049,USR0018,2024-06-04 16:46,Cosco Skipping Rope,Sports & Fitness,1,369,Credit Card,Kanpur
+ORD000050,USR0092,2024-09-13 16:51,Atomic Habits - James Clear,Books & Stationery,3,420,UPI,Visakhapatnam
+ORD000051,USR0085,2024-10-12 03:07,Plum Green Tea Toner,Beauty & Personal Care,2,570,Cash on Delivery,Meerut
+ORD000052,USR0220,2024-06-11 04:48,Running Shoes Men,Sports & Fitness,1,3679,UPI,Aurangabad
+ORD000053,USR0022,2024-11-05 20:20,Bamboo Cutting Board,Home & Kitchen,1,619,Cash on Delivery,Lucknow
+ORD000054,USR0030,2025-02-24 00:10,Lakme Foundation,Beauty & Personal Care,1,529,Debit Card,Surat
+ORD000055,USR0075,2024-08-19 06:34,Lakme Foundation,Beauty & Personal Care,2,540,UPI,Ahmedabad
+ORD000056,USR0104,2024-12-19 09:06,Non-Stick Tawa 30cm,Home & Kitchen,1,1299,UPI,Indore
+ORD000057,USR0071,2025-01-27 02:29,Classmate Notebook Pack of 6,Books & Stationery,1,229,UPI,Delhi
+ORD000058,USR0027,2024-11-04 00:53,Track Pants,Fashion,1,909,UPI,Chennai
+ORD000059,USR0063,2024-10-14 08:54,Bedsheet King Size,Home & Kitchen,1,1019,Debit Card,Coimbatore  
+ORD000060,USR0008,2024-08-31 09:01,Formal Shirt,Fashion,1,2019,Cash on Delivery,Srinagar
+ORD000061,USR0090,2024-12-17 01:10,Atomic Habits - James Clear,Books & Stationery,1,490,UPI,Coimbatore
+ORD000062,USR0078,2024-07-07 04:15,Camlin Watercolor Set,Books & Stationery,4,450,Credit Card,Lucknow
+ORD000063,USR0014,2024-08-03 12:23,Noise ColorFit Pro 4 Smartwatch,Electronics,1,5289,Credit Card,Agra
+ORD000064,USR0014,2024-08-16 03:24,Silk Scarf,Accessories,2,929,Credit Card,Agra
+ORD000065,USR0053,2024-05-10 00:34,Running Shoes Men,Sports & Fitness,3,1529,EMI,Jaipur
+ORD000066,USR0025,2024-07-10 09:27,Silk Scarf,Accessories,1,769,Debit Card,Bhopal
+ORD000067,USR0081,2025-03-08 14:15,Camlin Watercolor Set,Books & Stationery,1,419,Credit Card,Ludhiana
+ORD000068,USR0008,2024-11-04 12:32,Travel Pouch Set,Accessories,2,579,UPI,Srinagar
+ORD000069,USR0089,2024-08-28 03:35,Lenovo Wired Keyboard,Electronics,1,800,EMI,Visakhapatnam
+ORD000070,USR0015,2024-10-25 14:14,Electric Kettle 1.5L,Home & Kitchen,1,1479,UPI,Nashik
+ORD000071,USR0015,2024-12-09 07:12,Diary / Planner 2025,Books & Stationery,3,339,UPI,NASHIK
+ORD000072,USR0081,2024-06-14 22:32,Sticky Notes Multicolor Pack,Books & Stationery,2,99,Debit Card,Ludhiana
+ORD000073,USR0009,2024-09-24 11:35,MI Smart Band 7,Electronics,1,3429,UPI,Indore
+ORD000074,USR0011,2025-01-21 12:14,Fitness Band Strap,Accessories,2,349,Credit Card,Thane
+ORD000075,USR0017,2025-01-18 23:18,Classmate Notebook Pack of 6,Books & Stationery,1,259,Credit Card,Pune
+ORD000076,USR0001,2024-09-05 15:08,Resistance Bands Set,Sports & Fitness,2,529,Credit Card,Nagpur
+ORD000077,USR0102,2025-03-12 22:37,Anarkali Suit,Fashion,2,2679,UPI,Thane
+ORD000078,USR0050,2024-10-20 11:43,Travel Pouch Set,Accessories,5,599,Debit Card,Ludhiana
+ORD000079,USR0004,2025-01-05 01:37,Nivia Football Size 5,Sports & Fitness,1,919,Credit Card,Agra
+ORD000080,USR0011,2025-02-05 22:28,Sticky Notes Multicolor Pack,Books & Stationery,1,210,Credit Card,Thane
+ORD000081,USR0069,2024-09-28 08:57,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,399,Credit Card,Agra
+ORD000082,USR0005,2024-12-16 04:25,Nivia Football Size 5,Sports & Fitness,1,1260,Debit Card,Varanasi
+ORD000083,USR0002,2024-06-18 19:40,Classmate Notebook Pack of 6,Books & Stationery,2,239,Cash on Delivery,Chennai
+ORD000084,USR0006,2024-12-10 09:44,Track Pants,Fashion,1,1279,Credit Card,Chennai
+ORD000085,USR0017,2024-07-31 15:32,Leggings,Fashion,1,299,Credit Card,Pune
+ORD000086,USR0224,2024-06-27 14:27,Badminton Racket Set,Sports & Fitness,1,1380,UPI,Coimbatore
+ORD000087,USR0063,2024-11-24 21:44,Electric Kettle 1.5L,Home & Kitchen,1,1139,Credit Card,Coimbatore
+ORD000088,USR0035,2024-11-10 17:05,Non-Stick Tawa 30cm,Home & Kitchen,1,909,Debit Card,Chennai
+ORD000089,USR0002,2024-05-29 19:52,Sticky Notes Multicolor Pack,Books & Stationery,1,119,Debit Card,Chennai
+ORD000090,USR0019,2024-11-19 02:27,Running Shoes Men,Sports & Fitness,1,2519,EMI,Rajkot
+ORD000091,USR0145,2025-02-16 23:16,Hoodie,Fashion,2,1750,UPI,SRINAGAR
+ORD000092,USR0038,2024-07-04 15:59,boAt Rockerz 450 Headphones,Electronics,4,1599,Debit Card,Hyderabad
+ORD000093,USR0067,2024-06-15 23:30,Sunglasses Aviator,Accessories,2,1850,Debit Card,Kolkata
+ORD000094,USR0034,2024-11-17 18:09,Canvas Backpack,Accessories,2,1380,UPI,Visakhapatnam
+ORD000095,USR0004,2024-08-20 01:14,Stainless Steel Water Bottle,Accessories,1,320,Credit Card,Agra
+ORD000096,USR0227,2024-06-17 02:12,The Moms Co. Baby Wash,Beauty & Personal Care,3,589,UPI,Faridabad
+ORD000097,USR0070,2024-09-21 12:37,Stainless Steel Water Bottle,Accessories,1,379,EMI,Faridabad
+ORD000098,USR0228,2024-07-01 00:09,Leather Wallet,Accessories,2,829,Cash on Delivery,Aurangabad
+ORD000099,USR0010,2024-09-20 14:46,WOW Vitamin C Serum,Beauty & Personal Care,2,590,UPI,Agra
+ORD000100,USR0018,2024-10-20 19:17,Wall Clock Wooden,Home & Kitchen,1,1959,UPI,KANPUR
+ORD000101,USR0069,2024-10-17 04:26,Bedsheet King Size,Home & Kitchen,1,1570,Cash on Delivery,Agra
+ORD000102,USR0021,2024-12-13 23:51,Gillette Fusion Razor,Beauty & Personal Care,5,439,UPI,Vadodara
+ORD000103,USR0109,2024-05-05 23:21,Yoga Mat 6mm,Sports & Fitness,1,999,Debit Card,Lucknow
+ORD000104,USR0020,2024-12-16 01:36,Cosco Skipping Rope,Sports & Fitness,3,209,UPI,Meerut
+ORD000105,USR0028,2024-03-29 00:41,MI Smart Band 7,Electronics,1,3140,UPI,Agra
+ORD000106,USR0038,2024-08-11 00:55,Redmi 12C Smartphone,Electronics,4,10430,Credit Card,Hyderabad
+ORD000107,USR0182,2025-01-18 08:53,Nivia Football Size 5,Sports & Fitness,1,859,Debit Card,Coimbatore
+ORD000108,USR0018,2024-10-06 12:47,Stainless Steel Water Bottle,Accessories,1,579,Credit Card,Kanpur
+ORD000109,USR0015,2025-01-15 03:49,Redmi 12C Smartphone,Electronics,2,10459,Cash on Delivery,Nashik
+ORD000110,USR0054,2024-10-18 11:07,Classmate Notebook Pack of 6,Books & Stationery,2,219,Debit Card,Jaipur
+ORD000111,USR0018,2024-05-20 11:07,Nivia Football Size 5,Sports & Fitness,5,1399,Credit Card,Kanpur
+ORD000112,USR0016,2025-02-16 01:07,Running Shoes Men,Sports & Fitness,5,3149,Credit Card,Varanasi
+ORD000113,USR0006,2024-10-03 19:18,Biotique Sunscreen SPF 50,Beauty & Personal Care,4,369,UPI,Chennai
+ORD000114,USR0037,2024-08-05 09:11,Resistance Bands Set,Sports & Fitness,1,429,UPI,Ahmedabad
+ORD000115,USR0117,2024-09-19 13:37,Biotique Sunscreen SPF 50,Beauty & Personal Care,1,309,UPI,AHMEDABAD
+ORD000116,USR0086,2025-01-05 23:01,Wall Clock Wooden,Home & Kitchen,1,1970,UPI,AGRA
+ORD000117,USR0050,2024-08-07 09:14,Nykaa Lip Gloss Set,Beauty & Personal Care,2,649,UPI,Ludhiana
+ORD000118,USR0013,2024-07-06 07:20,Bamboo Cutting Board,Home & Kitchen,2,509,Cash on Delivery,Thane
+ORD000119,USR0057,2024-08-05 12:26,MI Smart Band 7,Electronics,1,2779,Debit Card,Coimbatore
+ORD000120,USR0008,2024-10-02 18:35,Hair Clip Set,Accessories,1,310,Debit Card,Srinagar
+ORD000121,USR0083,2024-11-23 19:47,Canvas Backpack,Accessories,1,1509,Cash on Delivery,Nashik
+ORD000122,USR0027,2024-12-20 19:30,Sticky Notes Multicolor Pack,Books & Stationery,3,169,Debit Card,Chennai
+ORD000123,USR0098,2024-11-21 04:30,Dove Body Lotion 400ml,Beauty & Personal Care,2,360,UPI,Bengaluru
+ORD000124,USR0111,2024-12-07 07:34,NCERT Class 12 Physics,Books & Stationery,1,290,EMI,Delhi
+ORD000125,USR0004,2025-02-15 22:49,Parker Pen Gift Set,Books & Stationery,4,510,EMI,Agra
+ORD000126,USR0250,2024-08-24 22:17,Leather Wallet,Accessories,1,549,Debit Card,Thane
+ORD000127,USR0223,2024-03-31 09:37,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,219,Debit Card,Bengaluru
+ORD000128,USR0033,2025-01-02 11:32,JBL Go 3 Bluetooth Speaker,Electronics,2,2790,UPI,Hyderabad
+ORD000129,USR0051,2024-03-19 12:18,Analog Wrist Watch,Accessories,5,2740,Credit Card,Varanasi
+ORD000130,USR0044,2024-06-28 05:07,Hair Clip Set,Accessories,1,219,UPI,Meerut
+ORD000131,USR0012,2024-10-31 21:28,MI Smart Band 7,Electronics,1,2499,UPI,Rajkot
+ORD000132,USR0095,2024-03-27 08:26,Sunglasses Aviator,Accessories,1,789,UPI,Surat
+ORD000133,USR0211,2024-08-21 05:56,Airtight Container Set,Home & Kitchen,2,769,Debit Card,Pune
+ORD000134,USR0028,2024-11-12 18:43,Biotique Sunscreen SPF 50,Beauty & Personal Care,3,259,Debit Card,Agra
+ORD000135,USR0061,2024-12-07 05:59,Stainless Steel Water Bottle,Accessories,2,409,Debit Card,Meerut
+ORD000136,USR0009,2024-10-22 01:13,Nivia Football Size 5,Sports & Fitness,1,1139,UPI,Indore
+ORD000137,USR0065,2024-09-18 02:09,WOW Vitamin C Serum,Beauty & Personal Care,3,639,Credit Card,Patna
+ORD000138,USR0002,2024-07-18 01:02,HP Wireless Mouse,Electronics,2,659,UPI,Chennai
+ORD000139,USR0086,2024-05-28 01:16,Canvas Backpack,Accessories,1,979,UPI,Agra
+ORD000140,USR0002,2025-01-30 08:49,Hair Clip Set,Accessories,4,370,UPI,Chennai
+ORD000141,USR0046,2024-07-08 00:42,Himalaya Face Wash,Beauty & Personal Care,1,180,UPI,Vadodara
+ORD000142,USR0005,2024-07-15 15:10,Diary / Planner 2025,Books & Stationery,2,489,Debit Card,Varanasi
+ORD000143,USR0214,2024-08-05 20:44,Realme Buds Wireless,Electronics,1,949,UPI,Patna
+ORD000144,USR0117,2025-03-05 01:51,Redmi 12C Smartphone,Electronics,4,11860,UPI,Ahmedabad
+ORD000145,USR0247,2024-05-07 14:41,Yoga Mat 6mm,Sports & Fitness,1,509,UPI,Bhopal
+ORD000146,USR0095,2024-04-07 13:37,Ethnic Saree,Fashion,1,1900,UPI,Surat
+ORD000147,USR0046,2025-01-31 07:39,Lenovo Wired Keyboard,Electronics,1,729,UPI,Vadodara
+ORD000148,USR0004,2024-12-03 07:24,Bedsheet King Size,Home & Kitchen,1,2109,UPI,Agra
+ORD000149,USR0036,2025-03-01 10:05,Badminton Racket Set,Sports & Fitness,4,1469,UPI,CHENNAI
+ORD000150,USR0003,2024-11-25 08:42,Classmate Notebook Pack of 6,Books & Stationery,1,222,Cash on Delivery,Visakhapatnam
+ORD000151,USR0073,2025-01-06 18:45,Formal Shirt,Fashion,1,1939,Debit Card,Amritsar
+ORD000152,USR0011,2024-08-23 09:15,NCERT Class 12 Physics,Books & Stationery,2,340,UPI,Thane
+ORD000153,USR0001,2024-12-03 02:25,Dove Body Lotion 400ml,Beauty & Personal Care,3,350,Cash on Delivery,Nagpur
+ORD000154,USR0017,2024-11-17 09:57,The Moms Co. Baby Wash,Beauty & Personal Care,2,550,EMI,Pune
+ORD000155,USR0188,2024-11-12 09:25,MI Smart Band 7,Electronics,5,2920,Credit Card,Amritsar
+ORD000156,USR0009,2024-08-02 18:56,"Samsung 32"" LED TV",Electronics,2,17969,UPI,Indore
+ORD000157,USR0213,2024-03-22 20:13,Sticky Notes Multicolor Pack,Books & Stationery,1,209,Debit Card,Mumbai
+ORD000158,USR0081,2025-03-08 01:37,Gillette Fusion Razor,Beauty & Personal Care,3,380,Cash on Delivery,Ludhiana
+ORD000159,USR0053,2024-10-26 12:16,Cap / Baseball Hat,Accessories,4,279,Cash on Delivery,Jaipur
+ORD000160,USR0010,2024-07-02 23:01,Badminton Racket Set,Sports & Fitness,4,1419,Debit Card,Agra
+ORD000161,USR0221,2024-04-01 12:19,Boat Airdopes 141,Electronics,3,999,Cash on Delivery,Amritsar
+ORD000162,USR0014,2024-10-17 06:54,Classmate Notebook Pack of 6,Books & Stationery,3,199,UPI,Agra
+ORD000163,USR0087,2025-02-27 17:12,Stainless Steel Casserole,Home & Kitchen,1,1329,UPI,Lucknow
+ORD000164,USR0235,2024-08-01 06:46,Anarkali Suit,Fashion,2,3547,UPI,Vadodara
+ORD000165,USR0066,2024-04-05 05:07,Protein Shaker Bottle,Sports & Fitness,1,670,Cash on Delivery,Amritsar
+ORD000166,USR0010,2025-03-15 08:52,Non-Stick Tawa 30cm,Home & Kitchen,1,1129,UPI,Agra
+ORD000167,USR0144,2024-11-22 18:55,Yoga Mat 6mm,Sports & Fitness,4,569,UPI,Kanpur
+ORD000168,USR0097,2024-03-20 06:15,HP Wireless Mouse,Electronics,4,989,Debit Card,Nagpur
+ORD000169,USR0048,2024-04-13 05:15,Mamaearth Onion Shampoo,Beauty & Personal Care,1,340,UPI,Srinagar
+ORD000170,USR0048,2024-12-07 05:04,Classmate Notebook Pack of 6,Books & Stationery,1,329,Debit Card,Srinagar
+ORD000171,USR0047,2025-02-01 19:15,Analog Wrist Watch,Accessories,4,1280,UPI,Mumbai
+ORD000172,USR0040,2025-02-26 09:44,Women's Kurti,Fashion,1,932,Debit Card,Ahmedabad
+ORD000173,USR0006,2024-09-11 19:43,Track Pants,Fashion,2,1290,Credit Card,Chennai
+ORD000174,USR0015,2024-12-18 20:57,Boat Airdopes 141,Electronics,2,1340,UPI,Nashik
+ORD000175,USR0013,2024-05-26 14:09,Electric Kettle 1.5L,Home & Kitchen,3,1020,UPI,THANE
+ORD000176,USR0190,2024-04-02 05:00,Classmate Notebook Pack of 6,Books & Stationery,1,339,UPI,Coimbatore
+ORD000177,USR0007,2024-08-15 07:16,Track Pants,Fashion,1,1249,UPI,Pune
+ORD000178,USR0049,2024-12-01 23:27,Camlin Watercolor Set,Books & Stationery,4,399,UPI,Mumbai
+ORD000179,USR0005,2024-12-15 00:56,Bedsheet King Size,Home & Kitchen,4,1649,UPI,Varanasi
+ORD000180,USR0020,2025-02-16 16:59,Classmate Notebook Pack of 6,Books & Stationery,3,305,UPI,Meerut
+ORD000181,USR0035,2024-10-04 18:03,Dumbbell Pair 5kg,Sports & Fitness,1,2289,UPI,Chennai
+ORD000182,USR0048,2024-05-23 04:41,Himalaya Face Wash,Beauty & Personal Care,1,170,UPI,Srinagar
+ORD000183,USR0053,2025-01-11 02:33,Travel Pouch Set,Accessories,1,329,UPI,Jaipur
+ORD000184,USR0026,2024-12-02 16:35,OnePlus Nord CE 3,Electronics,1,21200,Credit Card,Nashik
+ORD000185,USR0185,2024-12-12 06:28,Bamboo Cutting Board,Home & Kitchen,1,470,Credit Card,Rajkot
+ORD000186,USR0065,2024-09-30 00:23,Cotton Bath Towel Set,Home & Kitchen,2,959,Debit Card,Patna
+ORD000187,USR0022,2024-08-07 03:54,Cotton Bath Towel Set,Home & Kitchen,3,720,UPI,Lucknow
+ORD000188,USR0031,2024-04-10 00:05,Nykaa Lip Gloss Set,Beauty & Personal Care,4,450,UPI,Surat
+ORD000189,USR0164,2024-06-23 15:52,NCERT Class 12 Physics,Books & Stationery,2,379,Cash on Delivery,Ahmedabad
+ORD000190,USR0003,2024-08-01 16:19,Fitness Band Strap,Accessories,4,489,Debit Card,Visakhapatnam
+ORD000191,USR0175,2024-12-13 20:20,Bedsheet King Size,Home & Kitchen,3,2400,Credit Card,Delhi
+ORD000192,USR0123,2024-09-16 21:33,Sunglasses Aviator,Accessories,5,1059,UPI,Thane
+ORD000193,USR0052,2024-08-13 18:43,Analog Wrist Watch,Accessories,3,920,Credit Card,Hyderabad
+ORD000194,USR0014,2025-01-05 17:01,Bedsheet King Size,Home & Kitchen,1,1470,UPI,Agra
+ORD000195,USR0001,2024-08-29 12:07,WOW Vitamin C Serum,Beauty & Personal Care,1,940,UPI,Nagpur
+ORD000196,USR0020,2024-06-26 03:40,Atomic Habits - James Clear,Books & Stationery,1,309,Credit Card,Meerut
+ORD000197,USR0212,2024-05-27 13:39,Analog Wrist Watch,Accessories,2,3349,Cash on Delivery,Thane
+ORD000198,USR0046,2024-05-15 05:10,Silk Scarf,Accessories,1,420,Debit Card,Vadodara
+ORD000199,USR0003,2024-12-18 01:45,Casual T-Shirt,Fashion,3,589,Cash on Delivery,Visakhapatnam
+ORD000200,USR0186,2024-12-18 13:56,Sticky Notes Multicolor Pack,Books & Stationery,2,139,Debit Card,Pune
+ORD000201,USR0107,2024-12-12 14:44,Classmate Notebook Pack of 6,Books & Stationery,1,299,UPI,Bhopal
+ORD000202,USR0039,2024-09-20 11:18,Dumbbell Pair 5kg,Sports & Fitness,1,2249,Debit Card,Meerut
+ORD000203,USR0086,2024-07-03 10:23,Airtight Container Set,Home & Kitchen,3,589,UPI,Agra
+ORD000204,USR0013,2024-09-25 16:41,Lenovo Wired Keyboard,Electronics,1,930,UPI,Thane
+ORD000205,USR0053,2024-11-07 10:59,JBL Go 3 Bluetooth Speaker,Electronics,1,3040,Cash on Delivery,Jaipur
+ORD000206,USR0108,2024-05-14 05:00,NCERT Class 12 Physics,Books & Stationery,5,349,UPI,Thane
+ORD000207,USR0087,2024-09-06 03:12,Cap / Baseball Hat,Accessories,1,289,UPI,Lucknow
+ORD000208,USR0060,2025-01-29 04:19,The Alchemist - Paulo Coelho,Books & Stationery,1,299,UPI,Thane
+ORD000209,USR0015,2025-01-10 15:09,Nykaa Lip Gloss Set,Beauty & Personal Care,1,420,Debit Card,Nashik
+ORD000210,USR0062,2025-01-29 19:44,Diary / Planner 2025,Books & Stationery,1,440,UPI,Nashik
+ORD000211,USR0064,2024-11-07 20:28,Resistance Bands Set,Sports & Fitness,1,509,EMI,Nagpur
+ORD000212,USR0056,2024-09-28 08:20,Camlin Watercolor Set,Books & Stationery,1,359,Debit Card,Chennai
+ORD000213,USR0038,2024-03-26 14:42,Parker Pen Gift Set,Books & Stationery,1,719,Debit Card,Hyderabad
+ORD000214,USR0070,2024-08-11 18:51,Formal Shirt,Fashion,1,1689,UPI,Faridabad
+ORD000215,USR0012,2024-08-28 15:59,Protein Shaker Bottle,Sports & Fitness,3,549,Debit Card,Rajkot
+ORD000216,USR0224,2024-06-01 21:28,Camlin Watercolor Set,Books & Stationery,1,489,Credit Card,Coimbatore
+ORD000217,USR0072,2025-01-21 07:25,Nivia Football Size 5,Sports & Fitness,1,1559,Credit Card,Srinagar
+ORD000218,USR0006,2025-03-10 01:10,Sticky Notes Multicolor Pack,Books & Stationery,1,150,UPI,CHENNAI
+ORD000219,USR0091,2024-03-16 13:55,Diary / Planner 2025,Books & Stationery,1,479,Debit Card,Jaipur
+ORD000220,USR0015,2024-06-02 11:20,Casual T-Shirt,Fashion,1,679,Credit Card,Nashik
+ORD000221,USR0080,2024-09-15 18:40,Dove Body Lotion 400ml,Beauty & Personal Care,2,270,UPI,Delhi
+ORD000222,USR0068,2024-06-15 16:34,Lenovo Wired Keyboard,Electronics,1,750,Debit Card,Coimbatore
+ORD000223,USR0043,2024-10-22 16:24,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,349,UPI,Coimbatore
+ORD000224,USR0216,2024-04-13 17:34,Analog Wrist Watch,Accessories,5,3129,UPI,Coimbatore
+ORD000225,USR0011,2024-12-06 14:52,Bamboo Cutting Board,Home & Kitchen,5,789,UPI,Thane
+ORD000226,USR0010,2024-07-31 02:11,Ethnic Saree,Fashion,2,1330,UPI,Agra
+ORD000227,USR0138,2024-10-03 21:43,Realme Buds Wireless,Electronics,1,1330,Debit Card,Agra
+ORD000228,USR0005,2024-10-15 12:02,The Moms Co. Baby Wash,Beauty & Personal Care,2,349,Debit Card,Varanasi
+ORD000229,USR0032,2024-05-24 02:08,Sticky Notes Multicolor Pack,Books & Stationery,2,130,UPI,Aurangabad
+ORD000230,USR0082,2024-07-24 14:13,The Moms Co. Baby Wash,Beauty & Personal Care,3,429,Debit Card,Thane
+ORD000231,USR0030,2024-12-09 16:37,Dumbbell Pair 5kg,Sports & Fitness,2,2219,Credit Card,Surat
+ORD000232,USR0096,2024-07-19 12:06,Men's Slim Fit Jeans,Fashion,1,1799,Credit Card,VADODARA
+ORD000233,USR0028,2024-06-10 18:50,Redmi 12C Smartphone,Electronics,1,10810,Credit Card,Agra
+ORD000234,USR0009,2024-12-07 17:04,Analog Wrist Watch,Accessories,1,3460,Cash on Delivery,Indore
+ORD000235,USR0189,2024-04-03 02:43,Travel Pouch Set,Accessories,2,354,Cash on Delivery,Pune
+ORD000236,USR0070,2024-12-25 00:18,Noise ColorFit Pro 4 Smartwatch,Electronics,4,5969,Cash on Delivery,Faridabad
+ORD000237,USR0007,2024-11-20 18:37,Dumbbell Pair 5kg,Sports & Fitness,1,1854,UPI,Pune
+ORD000238,USR0028,2024-11-19 15:15,WOW Vitamin C Serum,Beauty & Personal Care,2,649,UPI,Agra
+ORD000239,USR0007,2024-10-07 08:34,Silk Scarf,Accessories,1,969,UPI,Pune
+ORD000240,USR0137,2024-09-23 04:09,Gillette Fusion Razor,Beauty & Personal Care,1,519,Credit Card,KANPUR
+ORD000241,USR0072,2024-06-10 11:27,Parker Pen Gift Set,Books & Stationery,1,1069,UPI,Srinagar
+ORD000242,USR0002,2024-10-05 09:22,Dove Body Lotion 400ml,Beauty & Personal Care,3,300,UPI,Chennai
+ORD000243,USR0077,2025-01-09 11:33,Running Shoes Men,Sports & Fitness,2,1749,Debit Card,Visakhapatnam
+ORD000244,USR0032,2025-03-10 08:30,Leather Wallet,Accessories,3,409,Credit Card,Aurangabad
+ORD000245,USR0002,2024-12-14 12:23,Nivia Football Size 5,Sports & Fitness,5,1339,UPI,Chennai
+ORD000246,USR0012,2024-08-13 01:16,Dumbbell Pair 5kg,Sports & Fitness,2,1799,UPI,Rajkot
+ORD000247,USR0104,2024-10-25 08:08,MI Smart Band 7,Electronics,1,3049,Debit Card,Indore
+ORD000248,USR0015,2024-06-02 07:44,Electric Kettle 1.5L,Home & Kitchen,2,1319,UPI,Nashik
+ORD000249,USR0011,2024-10-19 13:55,Track Pants,Fashion,1,999,UPI,Thane
+ORD000250,USR0017,2024-12-14 15:22,Formal Shirt,Fashion,1,1930,Credit Card,Pune
+ORD000251,USR0079,2024-06-29 00:31,The Alchemist - Paulo Coelho,Books & Stationery,2,319,Debit Card,LUDHIANA
+ORD000252,USR0020,2024-11-02 21:44,Travel Pouch Set,Accessories,5,399,UPI,Meerut
+ORD000253,USR0070,2025-02-27 12:56,Formal Shirt,Fashion,5,2380,Debit Card,Faridabad
+ORD000254,USR0037,2024-05-02 17:34,Dustbin with Lid 10L,Home & Kitchen,3,480,Credit Card,Ahmedabad
+ORD000255,USR0023,2024-04-20 15:06,Classmate Notebook Pack of 6,Books & Stationery,1,240,UPI,Chennai
+ORD000256,USR0015,2024-11-18 02:20,Gillette Fusion Razor,Beauty & Personal Care,2,589,Credit Card,Nashik
+ORD000257,USR0013,2025-02-07 02:23,Classmate Notebook Pack of 6,Books & Stationery,1,339,UPI,Thane
+ORD000258,USR0142,2025-02-07 05:54,Boat Airdopes 141,Electronics,2,1379,Debit Card,Agra
+ORD000259,USR0013,2024-07-23 23:17,Sticky Notes Multicolor Pack,Books & Stationery,1,130,Credit Card,Thane
+ORD000260,USR0239,2024-04-19 15:19,NCERT Class 12 Physics,Books & Stationery,3,279,UPI,Nagpur
+ORD000261,USR0172,2025-02-03 04:13,Parker Pen Gift Set,Books & Stationery,2,580,UPI,Bengaluru
+ORD000262,USR0161,2024-11-26 01:55,Anarkali Suit,Fashion,1,2209,UPI,Coimbatore
+ORD000263,USR0056,2024-06-27 14:03,Himalaya Face Wash,Beauty & Personal Care,1,239,Debit Card,Chennai
+ORD000264,USR0079,2024-11-12 05:48,Anarkali Suit,Fashion,1,1819,UPI,Ludhiana
+ORD000265,USR0159,2024-10-04 03:44,Bamboo Cutting Board,Home & Kitchen,2,740,UPI,Vadodara
+ORD000266,USR0097,2024-11-25 06:07,Yoga Mat 6mm,Sports & Fitness,2,749,Credit Card,Nagpur
+ORD000267,USR0086,2024-08-26 21:47,Redmi 12C Smartphone,Electronics,1,11409,UPI,Agra
+ORD000268,USR0044,2024-10-02 05:16,Track Pants,Fashion,1,550,Credit Card,Meerut
+ORD000269,USR0017,2024-07-31 10:33,Fitness Band Strap,Accessories,2,490,EMI,Pune
+ORD000270,USR0061,2024-10-14 07:26,Airtight Container Set,Home & Kitchen,3,559,Debit Card,Meerut
+ORD000271,USR0072,2024-05-16 03:00,Realme Buds Wireless,Electronics,5,1549,EMI,Srinagar
+ORD000272,USR0010,2024-06-27 14:53,Wall Clock Wooden,Home & Kitchen,1,2000,UPI,Agra
+ORD000273,USR0040,2024-09-30 17:26,Camlin Watercolor Set,Books & Stationery,1,360,Cash on Delivery,Ahmedabad
+ORD000274,USR0090,2024-06-03 17:30,Atomic Habits - James Clear,Books & Stationery,3,310,UPI,Coimbatore
+ORD000275,USR0002,2024-09-11 07:23,Formal Shirt,Fashion,1,1084,Cash on Delivery,Chennai
+ORD000276,USR0122,2024-12-11 08:56,Classmate Notebook Pack of 6,Books & Stationery,4,249,Credit Card,Meerut
+ORD000277,USR0244,2024-06-25 22:12,Airtight Container Set,Home & Kitchen,3,910,UPI,Indore
+ORD000278,USR0038,2025-02-02 17:33,Formal Shirt,Fashion,1,1499,UPI,Hyderabad
+ORD000279,USR0074,2024-05-16 11:16,Dustbin with Lid 10L,Home & Kitchen,1,449,UPI,Hyderabad
+ORD000280,USR0035,2024-09-02 10:39,Resistance Bands Set,Sports & Fitness,2,479,Cash on Delivery,Chennai
+ORD000281,USR0019,2024-12-22 17:50,Electric Kettle 1.5L,Home & Kitchen,2,1175,EMI,Rajkot
+ORD000282,USR0068,2024-09-20 12:50,Leggings,Fashion,1,479,UPI,Coimbatore
+ORD000283,USR0082,2024-06-20 03:06,Nykaa Lip Gloss Set,Beauty & Personal Care,2,460,Debit Card,Thane
+ORD000284,USR0210,2024-05-03 06:12,Non-Stick Tawa 30cm,Home & Kitchen,4,859,Cash on Delivery,Jaipur
+ORD000285,USR0081,2025-02-23 15:16,Redmi 12C Smartphone,Electronics,1,10179,Debit Card,Ludhiana
+ORD000286,USR0020,2024-05-29 12:26,Stainless Steel Water Bottle,Accessories,2,559,Debit Card,Meerut
+ORD000287,USR0008,2024-11-08 20:23,Bedsheet King Size,Home & Kitchen,1,1139,UPI,Srinagar
+ORD000288,USR0245,2024-05-31 09:18,Formal Shirt,Fashion,1,1679,UPI,Aurangabad
+ORD000289,USR0243,2024-07-23 00:35,Cushion Cover Set of 5,Home & Kitchen,4,499,UPI,Chennai
+ORD000290,USR0198,2024-04-12 07:56,Anarkali Suit,Fashion,3,2619,Debit Card,Chennai
+ORD000291,USR0154,2024-05-23 18:07,Dustbin with Lid 10L,Home & Kitchen,2,409,EMI,LUDHIANA
+ORD000292,USR0214,2024-04-07 18:13,Gillette Fusion Razor,Beauty & Personal Care,2,359,Credit Card,Patna
+ORD000293,USR0128,2024-09-08 02:59,Redmi 12C Smartphone,Electronics,3,12619,EMI,Rajkot
+ORD000294,USR0006,2024-11-16 16:16,Electric Kettle 1.5L,Home & Kitchen,1,1579,UPI,Chennai
+ORD000295,USR0003,2024-12-15 08:34,Plum Green Tea Toner,Beauty & Personal Care,1,430,Debit Card,Visakhapatnam
+ORD000296,USR0045,2024-08-24 11:38,Wall Clock Wooden,Home & Kitchen,1,1590,UPI,Amritsar
+ORD000297,USR0089,2025-02-03 01:14,Atomic Habits - James Clear,Books & Stationery,2,399,Credit Card,Visakhapatnam
+ORD000298,USR0058,2025-03-15 14:09,Mamaearth Onion Shampoo,Beauty & Personal Care,1,389,Debit Card,Rajkot
+ORD000299,USR0197,2024-06-18 22:47,Anarkali Suit,Fashion,1,1560,Debit Card,Coimbatore
+ORD000300,USR0018,2025-02-20 09:54,Biotique Sunscreen SPF 50,Beauty & Personal Care,5,279,Cash on Delivery,Kanpur
+ORD000301,USR0024,2024-11-16 21:31,Plum Green Tea Toner,Beauty & Personal Care,1,429,UPI,Amritsar
+ORD000302,USR0124,2024-09-19 13:37,Portronics Power Bank 10000mAh,Electronics,1,1419,Credit Card,Varanasi
+ORD000303,USR0070,2024-12-04 22:20,Dumbbell Pair 5kg,Sports & Fitness,1,1649,Credit Card,Faridabad
+ORD000304,USR0114,2024-06-08 16:01,Analog Wrist Watch,Accessories,4,2220,UPI,Chennai
+ORD000305,USR0055,2024-11-06 11:38,Formal Shirt,Fashion,3,2099,Credit Card,Lucknow
+ORD000306,USR0066,2024-11-17 23:03,Cosco Skipping Rope,Sports & Fitness,1,459,UPI,Amritsar
+ORD000307,USR0004,2024-10-08 14:17,Diary / Planner 2025,Books & Stationery,3,370,EMI,Agra
+ORD000308,USR0100,2024-04-27 11:29,Yoga Mat 6mm,Sports & Fitness,2,769,Credit Card,Kolkata
+ORD000309,USR0083,2024-05-09 09:00,Airtight Container Set,Home & Kitchen,1,629,Debit Card,Nashik
+ORD000310,USR0074,2024-09-08 03:38,Women's Kurti,Fashion,2,880,UPI,Hyderabad
+ORD000311,USR0065,2025-01-08 12:31,Stainless Steel Water Bottle,Accessories,2,459,UPI,Patna
+ORD000312,USR0174,2024-05-13 05:44,Cap / Baseball Hat,Accessories,2,200,Credit Card,Kolkata
+ORD000313,USR0056,2024-11-18 09:38,Travel Pouch Set,Accessories,1,510,Credit Card,Chennai
+ORD000314,USR0055,2024-07-02 02:39,Lenovo Wired Keyboard,Electronics,1,930,Debit Card,Lucknow
+ORD000315,USR0156,2025-01-17 06:09,Lakme Foundation,Beauty & Personal Care,1,540,UPI,Ahmedabad
+ORD000316,USR0175,2024-07-18 00:46,Airtight Container Set,Home & Kitchen,3,849,Debit Card,Delhi
+ORD000317,USR0064,2025-02-22 09:28,Canvas Backpack,Accessories,2,949,Debit Card,Nagpur
+ORD000318,USR0042,2024-04-09 11:44,MI Smart Band 7,Electronics,2,3179,EMI,AHMEDABAD
+ORD000319,USR0232,2024-08-07 10:59,Boat Airdopes 141,Electronics,1,1790,UPI,Pune
+ORD000320,USR0058,2024-08-23 03:18,Bamboo Cutting Board,Home & Kitchen,1,769,UPI,Rajkot
+ORD000321,USR0018,2024-10-15 22:55,Fitness Band Strap,Accessories,1,469,UPI,Kanpur
+ORD000322,USR0045,2024-11-29 00:39,Resistance Bands Set,Sports & Fitness,3,659,UPI,Amritsar
+ORD000323,USR0135,2024-03-20 16:03,The Moms Co. Baby Wash,Beauty & Personal Care,3,349,UPI,Nashik
+ORD000324,USR0115,2025-01-17 16:45,Cap / Baseball Hat,Accessories,1,569,UPI,Indore
+ORD000325,USR0009,2024-09-15 18:03,Track Pants,Fashion,3,620,Credit Card,Indore
+ORD000326,USR0144,2024-10-02 15:29,Parker Pen Gift Set,Books & Stationery,1,779,Debit Card,Kanpur
+ORD000327,USR0030,2025-01-25 03:04,Track Pants,Fashion,3,1170,EMI,Surat
+ORD000328,USR0125,2025-03-07 20:34,Mamaearth Onion Shampoo,Beauty & Personal Care,2,380,Credit Card,Ahmedabad
+ORD000329,USR0008,2024-08-03 14:18,Cushion Cover Set of 5,Home & Kitchen,1,729,UPI,SRINAGAR
+ORD000330,USR0013,2025-01-16 06:27,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,390,Credit Card,Thane
+ORD000331,USR0015,2025-01-16 15:00,Sunglasses Aviator,Accessories,4,1370,UPI,Nashik
+ORD000332,USR0082,2024-07-04 07:01,Badminton Racket Set,Sports & Fitness,1,1470,Credit Card,Thane
+ORD000333,USR0181,2024-04-16 05:48,Electric Kettle 1.5L,Home & Kitchen,1,1579,Cash on Delivery,Patna
+ORD000334,USR0204,2024-05-31 01:49,Silk Scarf,Accessories,1,980,Credit Card,Chennai
+ORD000335,USR0148,2024-10-06 08:06,Plum Green Tea Toner,Beauty & Personal Care,3,531,Credit Card,Mumbai
+ORD000336,USR0011,2025-02-14 19:55,Diary / Planner 2025,Books & Stationery,1,209,Cash on Delivery,Thane
+ORD000337,USR0073,2024-09-16 07:21,The Alchemist - Paulo Coelho,Books & Stationery,1,319,UPI,Amritsar
+ORD000338,USR0030,2025-02-28 06:47,Parker Pen Gift Set,Books & Stationery,1,599,Credit Card,Surat
+ORD000339,USR0087,2024-09-18 17:49,Cotton Bath Towel Set,Home & Kitchen,4,1020,UPI,Lucknow
+ORD000340,USR0013,2024-05-28 05:52,Cosco Skipping Rope,Sports & Fitness,3,360,UPI,Thane
+ORD000341,USR0062,2024-06-04 14:54,Canvas Backpack,Accessories,1,1899,Debit Card,Nashik
+ORD000342,USR0087,2024-09-28 16:57,Redmi 12C Smartphone,Electronics,3,11109,Credit Card,Lucknow
+ORD000343,USR0071,2024-08-08 20:55,Canvas Backpack,Accessories,3,839,Cash on Delivery,Delhi
+ORD000344,USR0125,2024-04-19 20:40,Track Pants,Fashion,2,789,Debit Card,Ahmedabad
+ORD000345,USR0062,2024-12-17 06:52,Anarkali Suit,Fashion,2,2719,Cash on Delivery,Nashik
+ORD000346,USR0051,2024-08-15 01:37,Mamaearth Onion Shampoo,Beauty & Personal Care,2,480,UPI,Varanasi
+ORD000347,USR0069,2024-03-28 04:32,Women's Kurti,Fashion,1,1128,Credit Card,Agra
+ORD000348,USR0080,2024-06-01 07:33,Protein Shaker Bottle,Sports & Fitness,1,479,UPI,Delhi
+ORD000349,USR0007,2024-06-15 06:37,Stainless Steel Water Bottle,Accessories,2,759,Credit Card,Pune
+ORD000350,USR0034,2024-12-04 06:52,Biotique Sunscreen SPF 50,Beauty & Personal Care,4,400,EMI,Visakhapatnam
+ORD000351,USR0001,2025-01-06 01:33,Casual T-Shirt,Fashion,4,340,Credit Card,Nagpur
+ORD000352,USR0010,2024-12-20 02:34,Canvas Backpack,Accessories,5,869,Debit Card,Agra
+ORD000353,USR0027,2024-11-08 23:45,Badminton Racket Set,Sports & Fitness,1,1859,UPI,Chennai
+ORD000354,USR0001,2024-11-27 09:45,Himalaya Face Wash,Beauty & Personal Care,2,150,Credit Card,Nagpur
+ORD000355,USR0006,2024-07-02 02:05,Classmate Notebook Pack of 6,Books & Stationery,2,229,Cash on Delivery,Chennai
+ORD000356,USR0078,2025-01-27 13:45,Nivia Football Size 5,Sports & Fitness,2,859,Credit Card,Lucknow
+ORD000357,USR0135,2024-03-27 05:12,Denim Shorts,Fashion,4,770,UPI,Nashik
+ORD000358,USR0054,2024-07-11 06:20,Bamboo Cutting Board,Home & Kitchen,3,530,Cash on Delivery,Jaipur
+ORD000359,USR0007,2025-01-27 09:10,Diary / Planner 2025,Books & Stationery,1,200,Cash on Delivery,Pune
+ORD000360,USR0181,2024-11-15 08:25,Diary / Planner 2025,Books & Stationery,4,439,UPI,Patna
+ORD000361,USR0016,2024-09-22 10:58,Nivia Football Size 5,Sports & Fitness,1,1289,Credit Card,VARANASI
+ORD000362,USR0082,2024-04-24 12:21,Sunglasses Aviator,Accessories,2,1870,Debit Card,Thane
+ORD000363,USR0001,2024-06-13 22:33,Parker Pen Gift Set,Books & Stationery,3,879,UPI,Nagpur
+ORD000364,USR0179,2024-04-06 17:31,Mamaearth Onion Shampoo,Beauty & Personal Care,1,370,UPI,Ludhiana
+ORD000365,USR0092,2024-10-13 13:09,Gillette Fusion Razor,Beauty & Personal Care,1,469,Debit Card,Visakhapatnam
+ORD000366,USR0091,2024-12-24 01:41,Sunglasses Aviator,Accessories,2,940,Credit Card,Jaipur
+ORD000367,USR0098,2024-08-30 03:06,The Moms Co. Baby Wash,Beauty & Personal Care,1,470,UPI,Bengaluru
+ORD000368,USR0178,2024-05-13 19:39,Non-Stick Tawa 30cm,Home & Kitchen,1,859,Cash on Delivery,Lucknow
+ORD000369,USR0043,2024-07-05 08:46,Bamboo Cutting Board,Home & Kitchen,1,680,Credit Card,Coimbatore
+ORD000370,USR0075,2025-01-05 20:18,Silk Scarf,Accessories,1,650,UPI,Ahmedabad
+ORD000371,USR0184,2024-07-12 09:21,Redmi 12C Smartphone,Electronics,2,10849,Credit Card,Delhi
+ORD000372,USR0031,2024-10-17 16:59,Cosco Skipping Rope,Sports & Fitness,2,359,Debit Card,Surat
+ORD000373,USR0007,2025-01-20 12:27,Fitness Band Strap,Accessories,1,339,Credit Card,Pune
+ORD000374,USR0055,2024-11-06 19:20,The Moms Co. Baby Wash,Beauty & Personal Care,1,419,UPI,Lucknow
+ORD000375,USR0084,2024-10-19 15:04,Dove Body Lotion 400ml,Beauty & Personal Care,3,310,UPI,Chennai
+ORD000376,USR0001,2024-11-18 18:12,Men's Slim Fit Jeans,Fashion,1,1779,UPI,Nagpur
+ORD000377,USR0013,2024-07-15 05:27,Cap / Baseball Hat,Accessories,3,549,UPI,Thane
+ORD000378,USR0053,2024-10-11 17:48,Parker Pen Gift Set,Books & Stationery,1,559,UPI,Jaipur
+ORD000379,USR0099,2025-02-02 14:14,Travel Pouch Set,Accessories,1,410,Credit Card,Kolkata
+ORD000380,USR0092,2024-08-26 11:36,Silk Scarf,Accessories,1,1119,Debit Card,Visakhapatnam
+ORD000381,USR0024,2025-01-07 18:26,Camlin Watercolor Set,Books & Stationery,2,459,Credit Card,Amritsar
+ORD000382,USR0018,2025-03-05 01:11,Women's Kurti,Fashion,1,979,EMI,Kanpur
+ORD000383,USR0078,2025-02-28 07:15,Track Pants,Fashion,3,999,Credit Card,Lucknow
+ORD000384,USR0013,2024-06-21 23:20,Formal Shirt,Fashion,2,2159,Cash on Delivery,Thane
+ORD000385,USR0076,2025-03-02 01:32,Running Shoes Men,Sports & Fitness,1,2089,Credit Card,Agra
+ORD000386,USR0070,2024-04-24 14:40,Plum Green Tea Toner,Beauty & Personal Care,1,450,EMI,Faridabad
+ORD000387,USR0010,2024-11-17 17:54,The Moms Co. Baby Wash,Beauty & Personal Care,2,519,Cash on Delivery,AGRA
+ORD000388,USR0095,2024-07-01 18:11,Boat Airdopes 141,Electronics,2,1590,Credit Card,Surat
+ORD000389,USR0088,2024-12-15 18:54,Nykaa Lip Gloss Set,Beauty & Personal Care,1,559,Credit Card,Patna
+ORD000390,USR0071,2024-08-27 21:09,JBL Go 3 Bluetooth Speaker,Electronics,1,3220,UPI,Delhi
+ORD000391,USR0079,2024-07-03 02:11,MI Smart Band 7,Electronics,1,2649,UPI,LUDHIANA
+ORD000392,USR0205,2024-06-02 15:49,Denim Shorts,Fashion,5,839,Cash on Delivery,Srinagar
+ORD000393,USR0035,2024-09-13 14:49,WOW Vitamin C Serum,Beauty & Personal Care,1,659,Debit Card,Chennai
+ORD000394,USR0017,2024-12-30 18:21,Stainless Steel Water Bottle,Accessories,2,509,Credit Card,Pune
+ORD000395,USR0036,2024-11-27 08:55,Formal Shirt,Fashion,1,1340,UPI,Chennai
+ORD000396,USR0158,2024-04-23 04:33,Formal Shirt,Fashion,1,1289,UPI,Kolkata
+ORD000397,USR0160,2024-09-12 06:51,Nivia Football Size 5,Sports & Fitness,1,1589,UPI,Bhopal
+ORD000398,USR0012,2024-10-26 15:01,Running Shoes Men,Sports & Fitness,1,2110,UPI,Rajkot
+ORD000399,USR0041,2024-04-30 00:36,Atomic Habits - James Clear,Books & Stationery,1,379,Credit Card,Coimbatore
+ORD000400,USR0095,2025-01-02 04:53,Realme Buds Wireless,Electronics,2,1289,Debit Card,SURAT
+ORD000401,USR0191,2024-11-06 09:38,Hair Clip Set,Accessories,5,355,Debit Card,Thane
+ORD000402,USR0010,2025-01-17 16:13,Bamboo Cutting Board,Home & Kitchen,2,459,EMI,Agra
+ORD000403,USR0013,2025-03-08 19:21,Diary / Planner 2025,Books & Stationery,1,430,Credit Card,Thane
+ORD000404,USR0116,2025-01-06 14:36,Lakme Foundation,Beauty & Personal Care,1,890,EMI,Chennai
+ORD000405,USR0017,2024-12-20 02:07,Biotique Sunscreen SPF 50,Beauty & Personal Care,3,429,UPI,Pune
+ORD000406,USR0237,2024-06-30 10:03,Bamboo Cutting Board,Home & Kitchen,2,449,UPI,Rajkot
+ORD000407,USR0001,2024-08-31 00:22,Track Pants,Fashion,5,1020,Credit Card,Nagpur
+ORD000408,USR0016,2024-12-29 08:04,Biotique Sunscreen SPF 50,Beauty & Personal Care,1,419,UPI,Varanasi
+ORD000409,USR0027,2024-06-24 04:26,The Moms Co. Baby Wash,Beauty & Personal Care,3,590,Cash on Delivery,Chennai
+ORD000410,USR0133,2024-09-27 21:12,HP Wireless Mouse,Electronics,4,620,Credit Card,Patna
+ORD000411,USR0015,2025-02-07 17:28,Plum Green Tea Toner,Beauty & Personal Care,3,540,UPI,Nashik
+ORD000412,USR0245,2024-05-23 18:00,Redmi 12C Smartphone,Electronics,1,12450,Cash on Delivery,Aurangabad
+ORD000413,USR0007,2024-08-23 13:42,OnePlus Nord CE 3,Electronics,3,20410,UPI,Pune
+ORD000414,USR0017,2024-11-15 17:05,Cotton Bath Towel Set,Home & Kitchen,1,1169,UPI,Pune
+ORD000415,USR0024,2024-09-22 22:03,Biotique Sunscreen SPF 50,Beauty & Personal Care,1,229,UPI,Amritsar
+ORD000416,USR0007,2024-08-30 17:54,Noise ColorFit Pro 4 Smartwatch,Electronics,1,3670,UPI,Pune
+ORD000417,USR0009,2024-09-02 17:25,Men's Slim Fit Jeans,Fashion,2,2339,UPI,Indore
+ORD000418,USR0026,2024-05-06 06:25,Leather Wallet,Accessories,1,850,UPI,Nashik
+ORD000419,USR0059,2025-01-29 22:04,HP Wireless Mouse,Electronics,1,650,Debit Card,RAJKOT
+ORD000420,USR0193,2024-06-13 15:37,Fitness Band Strap,Accessories,2,270,Debit Card,Meerut
+ORD000421,USR0052,2024-12-11 16:25,Bedsheet King Size,Home & Kitchen,3,2650,UPI,Hyderabad
+ORD000422,USR0004,2024-08-21 10:15,Women's Kurti,Fashion,2,1379,Credit Card,Agra
+ORD000423,USR0074,2024-10-06 11:44,Cosco Skipping Rope,Sports & Fitness,1,460,Cash on Delivery,Hyderabad
+ORD000424,USR0002,2024-07-22 12:09,Canvas Backpack,Accessories,2,2349,Credit Card,Chennai
+ORD000425,USR0037,2025-02-07 20:16,Fitness Band Strap,Accessories,5,210,Debit Card,Ahmedabad
+ORD000426,USR0156,2024-08-07 02:16,Sticky Notes Multicolor Pack,Books & Stationery,3,239,UPI,Ahmedabad
+ORD000427,USR0064,2024-08-01 09:18,Boat Airdopes 141,Electronics,1,1009,UPI,Nagpur
+ORD000428,USR0162,2024-06-28 22:21,Himalaya Face Wash,Beauty & Personal Care,1,290,Cash on Delivery,Amritsar
+ORD000429,USR0195,2025-01-05 02:03,Stainless Steel Water Bottle,Accessories,2,510,UPI,Coimbatore
+ORD000430,USR0099,2024-08-19 05:18,Lakme Foundation,Beauty & Personal Care,1,489,Debit Card,Kolkata
+ORD000431,USR0005,2025-01-14 16:21,Bamboo Cutting Board,Home & Kitchen,1,660,UPI,Varanasi
+ORD000432,USR0002,2024-09-23 06:13,Portronics Power Bank 10000mAh,Electronics,2,1109,EMI,Chennai
+ORD000433,USR0207,2024-06-18 05:56,Nivia Football Size 5,Sports & Fitness,4,1600,Debit Card,Agra
+ORD000434,USR0194,2024-11-10 12:09,HP Wireless Mouse,Electronics,2,630,Credit Card,Amritsar
+ORD000435,USR0019,2024-09-15 17:03,Track Pants,Fashion,1,979,UPI,Rajkot
+ORD000436,USR0047,2025-01-08 00:36,Protein Shaker Bottle,Sports & Fitness,1,499,Cash on Delivery,Mumbai
+ORD000437,USR0196,2024-12-18 20:58,Camlin Watercolor Set,Books & Stationery,4,369,Cash on Delivery,Bengaluru
+ORD000438,USR0020,2024-08-13 07:18,Sunglasses Aviator,Accessories,1,1749,UPI,Meerut
+ORD000439,USR0134,2024-08-10 22:46,Badminton Racket Set,Sports & Fitness,3,1140,Credit Card,Hyderabad
+ORD000440,USR0037,2025-03-15 21:31,The Alchemist - Paulo Coelho,Books & Stationery,1,300,Cash on Delivery,Ahmedabad
+ORD000441,USR0004,2024-09-01 04:19,Cosco Skipping Rope,Sports & Fitness,1,410,Debit Card,Agra
+ORD000442,USR0152,2024-12-31 11:35,Atomic Habits - James Clear,Books & Stationery,4,349,Credit Card,Lucknow
+ORD000443,USR0017,2024-05-29 10:55,Parker Pen Gift Set,Books & Stationery,2,1020,EMI,Pune
+ORD000444,USR0035,2024-09-04 22:22,Noise ColorFit Pro 4 Smartwatch,Electronics,3,3830,UPI,Chennai
+ORD000445,USR0019,2025-02-26 08:11,Men's Slim Fit Jeans,Fashion,1,1980,Credit Card,Rajkot
+ORD000446,USR0229,2024-08-17 15:57,Redmi 12C Smartphone,Electronics,2,12749,Credit Card,Vadodara
+ORD000447,USR0132,2025-03-01 09:27,The Moms Co. Baby Wash,Beauty & Personal Care,1,490,Debit Card,Mumbai
+ORD000448,USR0002,2024-06-03 22:47,Casual T-Shirt,Fashion,1,720,UPI,Chennai
+ORD000449,USR0043,2025-03-06 16:55,Analog Wrist Watch,Accessories,1,2679,Debit Card,Coimbatore
+ORD000450,USR0089,2024-03-18 02:11,Non-Stick Tawa 30cm,Home & Kitchen,2,1079,Debit Card,VISAKHAPATNAM
+ORD000451,USR0077,2024-06-06 09:02,Dustbin with Lid 10L,Home & Kitchen,1,340,UPI,Visakhapatnam
+ORD000452,USR0018,2024-08-24 21:45,Running Shoes Men,Sports & Fitness,1,1819,Credit Card,Kanpur
+ORD000453,USR0054,2024-11-24 06:44,Canvas Backpack,Accessories,1,2469,UPI,Jaipur
+ORD000454,USR0249,2024-08-05 19:26,Protein Shaker Bottle,Sports & Fitness,1,600,UPI,Agra
+ORD000455,USR0218,2024-04-19 15:51,Fitness Band Strap,Accessories,2,430,Debit Card,Varanasi
+ORD000456,USR0001,2024-08-12 17:08,Non-Stick Tawa 30cm,Home & Kitchen,2,1240,Cash on Delivery,Nagpur
+ORD000457,USR0010,2024-10-31 01:30,Lenovo Wired Keyboard,Electronics,1,760,Cash on Delivery,AGRA
+ORD000458,USR0139,2024-05-11 02:22,Hoodie,Fashion,2,920,Debit Card,Nagpur
+ORD000459,USR0075,2024-04-09 16:02,Airtight Container Set,Home & Kitchen,3,560,Credit Card,Ahmedabad
+ORD000460,USR0029,2024-11-07 06:21,Sunglasses Aviator,Accessories,1,1020,UPI,Indore
+ORD000461,USR0006,2025-02-19 04:01,Leggings,Fashion,3,410,Debit Card,Chennai
+ORD000462,USR0107,2024-07-21 17:12,Fitness Band Strap,Accessories,1,380,Credit Card,Bhopal
+ORD000463,USR0014,2024-06-04 23:26,Stainless Steel Casserole,Home & Kitchen,1,1289,UPI,Agra
+ORD000464,USR0207,2024-07-03 00:12,OnePlus Nord CE 3,Electronics,2,20620,Credit Card,Agra
+ORD000465,USR0072,2024-11-03 03:02,Women's Kurti,Fashion,1,1480,Credit Card,Srinagar
+ORD000466,USR0097,2024-09-28 09:27,Yoga Mat 6mm,Sports & Fitness,2,1259,EMI,Nagpur
+ORD000467,USR0246,2024-07-05 12:02,Denim Shorts,Fashion,1,719,Debit Card,Bengaluru
+ORD000468,USR0040,2024-11-23 13:53,Plum Green Tea Toner,Beauty & Personal Care,3,420,EMI,Ahmedabad
+ORD000469,USR0165,2024-09-22 12:32,Sticky Notes Multicolor Pack,Books & Stationery,1,239,Debit Card,Nashik
+ORD000470,USR0077,2024-08-17 04:41,Travel Pouch Set,Accessories,1,289,Cash on Delivery,Visakhapatnam
+ORD000471,USR0111,2025-01-12 14:17,Yoga Mat 6mm,Sports & Fitness,4,1040,Debit Card,Delhi
+ORD000472,USR0080,2025-02-08 12:12,Sunglasses Aviator,Accessories,2,889,EMI,Delhi
+ORD000473,USR0225,2024-08-22 00:51,OnePlus Nord CE 3,Electronics,3,23639,Debit Card,Surat
+ORD000474,USR0012,2024-11-29 06:14,Bedsheet King Size,Home & Kitchen,2,2554,EMI,Rajkot
+ORD000475,USR0002,2025-02-22 15:24,Noise ColorFit Pro 4 Smartwatch,Electronics,2,3839,UPI,Chennai
+ORD000476,USR0004,2025-03-13 22:17,Women's Kurti,Fashion,2,1249,Credit Card,Agra
+ORD000477,USR0108,2024-05-14 18:26,Portronics Power Bank 10000mAh,Electronics,1,1769,UPI,Thane
+ORD000478,USR0014,2024-06-27 00:18,Himalaya Face Wash,Beauty & Personal Care,1,172,Credit Card,Agra
+ORD000479,USR0091,2024-12-17 01:00,Formal Shirt,Fashion,3,909,UPI,Jaipur
+ORD000480,USR0017,2024-09-04 17:29,Lakme Foundation,Beauty & Personal Care,5,869,UPI,Pune
+ORD000481,USR0242,2024-07-16 08:10,Sunglasses Aviator,Accessories,1,610,Cash on Delivery,AURANGABAD
+ORD000482,USR0077,2024-10-31 05:49,Nykaa Lip Gloss Set,Beauty & Personal Care,1,659,UPI,Visakhapatnam
+ORD000483,USR0015,2024-07-10 09:44,Cosco Skipping Rope,Sports & Fitness,1,240,Credit Card,Nashik
+ORD000484,USR0106,2025-01-05 08:37,JBL Go 3 Bluetooth Speaker,Electronics,3,3090,Debit Card,Vadodara
+ORD000485,USR0087,2024-05-25 12:46,Dustbin with Lid 10L,Home & Kitchen,2,609,Credit Card,Lucknow
+ORD000486,USR0073,2024-04-01 03:18,Hoodie,Fashion,1,1999,Credit Card,Amritsar
+ORD000487,USR0019,2024-09-29 07:32,OnePlus Nord CE 3,Electronics,5,20160,UPI,Rajkot
+ORD000488,USR0212,2024-08-24 01:36,Sunglasses Aviator,Accessories,4,1500,UPI,Thane
+ORD000489,USR0011,2024-10-15 05:22,Nykaa Lip Gloss Set,Beauty & Personal Care,2,430,Credit Card,Thane
+ORD000490,USR0005,2024-09-15 18:17,Dove Body Lotion 400ml,Beauty & Personal Care,1,309,Debit Card,Varanasi
+ORD000491,USR0023,2025-02-25 20:31,Protein Shaker Bottle,Sports & Fitness,2,329,UPI,Chennai
+ORD000492,USR0011,2025-03-05 08:43,Silk Scarf,Accessories,2,609,UPI,Thane
+ORD000493,USR0002,2024-08-10 17:14,Formal Shirt,Fashion,1,1429,Credit Card,Chennai
+ORD000494,USR0138,2024-10-31 15:58,Bedsheet King Size,Home & Kitchen,1,2699,Debit Card,Agra
+ORD000495,USR0230,2024-05-02 06:07,Running Shoes Men,Sports & Fitness,1,2769,Debit Card,Pune
+ORD000496,USR0008,2024-07-14 06:38,Nivia Football Size 5,Sports & Fitness,1,850,Credit Card,Srinagar
+ORD000497,USR0226,2024-07-18 12:49,Mamaearth Onion Shampoo,Beauty & Personal Care,1,429,Credit Card,Ludhiana
+ORD000498,USR0054,2024-08-27 22:27,Track Pants,Fashion,4,650,UPI,Jaipur
+ORD000499,USR0131,2024-07-05 08:56,HP Wireless Mouse,Electronics,2,949,UPI,Lucknow
+ORD000500,USR0039,2024-10-27 20:26,Dove Body Lotion 400ml,Beauty & Personal Care,2,250,UPI,Meerut
+ORD000501,USR0062,2024-04-21 03:28,Resistance Bands Set,Sports & Fitness,1,779,UPI,Nashik
+ORD000502,USR0029,2024-11-12 18:09,Protein Shaker Bottle,Sports & Fitness,2,650,Debit Card,Indore
+ORD000503,USR0016,2025-02-27 22:19,Dustbin with Lid 10L,Home & Kitchen,1,379,EMI,Varanasi
+ORD000504,USR0177,2024-03-28 20:48,JBL Go 3 Bluetooth Speaker,Electronics,1,3749,Credit Card,Kanpur
+ORD000505,USR0011,2024-05-25 21:04,Women's Kurti,Fashion,2,1490,Debit Card,THANE
+ORD000506,USR0060,2025-03-13 15:06,Electric Kettle 1.5L,Home & Kitchen,1,1539,UPI,Thane
+ORD000507,USR0007,2024-10-07 11:42,Men's Slim Fit Jeans,Fashion,1,2279,EMI,Pune
+ORD000508,USR0250,2024-04-28 01:22,JBL Go 3 Bluetooth Speaker,Electronics,2,2760,UPI,Thane
+ORD000509,USR0025,2024-07-01 00:51,Hair Clip Set,Accessories,4,290,Cash on Delivery,Bhopal
+ORD000510,USR0007,2024-07-31 03:29,Dumbbell Pair 5kg,Sports & Fitness,1,1459,Credit Card,Pune
+ORD000511,USR0096,2024-03-28 06:22,Cotton Bath Towel Set,Home & Kitchen,3,770,Credit Card,Vadodara
+ORD000512,USR0061,2024-12-30 21:38,Mamaearth Onion Shampoo,Beauty & Personal Care,2,340,Debit Card,Meerut
+ORD000513,USR0061,2025-01-16 16:38,Electric Kettle 1.5L,Home & Kitchen,1,1240,Debit Card,Meerut
+ORD000514,USR0233,2024-04-14 07:06,OnePlus Nord CE 3,Electronics,4,21120,UPI,Nagpur
+ORD000515,USR0011,2024-10-13 12:19,Dustbin with Lid 10L,Home & Kitchen,1,459,Debit Card,Thane
+ORD000516,USR0092,2024-11-05 13:08,Sticky Notes Multicolor Pack,Books & Stationery,1,130,Credit Card,VISAKHAPATNAM
+ORD000517,USR0083,2025-02-21 12:07,Sunglasses Aviator,Accessories,1,1020,Debit Card,Nashik
+ORD000518,USR0005,2025-01-11 17:28,Lenovo Wired Keyboard,Electronics,1,780,Cash on Delivery,Varanasi
+ORD000519,USR0003,2025-02-17 21:54,Running Shoes Men,Sports & Fitness,2,2360,Debit Card,Visakhapatnam
+ORD000520,USR0059,2025-03-10 18:18,Biotique Sunscreen SPF 50,Beauty & Personal Care,1,439,Debit Card,Rajkot
+ORD000521,USR0056,2024-07-01 07:15,Cap / Baseball Hat,Accessories,3,199,Credit Card,Chennai
+ORD000522,USR0049,2024-10-02 18:35,Electric Kettle 1.5L,Home & Kitchen,1,969,UPI,Mumbai
+ORD000523,USR0004,2024-06-21 11:54,NCERT Class 12 Physics,Books & Stationery,1,290,Credit Card,Agra
+ORD000524,USR0009,2024-08-18 09:18,Nivia Football Size 5,Sports & Fitness,2,1489,UPI,Indore
+ORD000525,USR0100,2025-01-30 04:21,boAt Rockerz 450 Headphones,Electronics,1,2110,UPI,Kolkata
+ORD000526,USR0043,2025-01-12 22:41,Diary / Planner 2025,Books & Stationery,1,450,EMI,Coimbatore
+ORD000527,USR0038,2024-09-04 15:55,Travel Pouch Set,Accessories,5,669,UPI,Hyderabad
+ORD000528,USR0008,2024-07-01 19:51,Bedsheet King Size,Home & Kitchen,4,1139,Credit Card,Srinagar
+ORD000529,USR0147,2024-12-20 15:48,Analog Wrist Watch,Accessories,3,3390,Debit Card,Jaipur
+ORD000530,USR0171,2025-01-11 16:48,Analog Wrist Watch,Accessories,2,3170,UPI,Ahmedabad
+ORD000531,USR0008,2025-02-08 17:02,Leggings,Fashion,1,679,Debit Card,Srinagar
+ORD000532,USR0155,2024-11-13 22:12,boAt Rockerz 450 Headphones,Electronics,2,2410,Cash on Delivery,Ahmedabad
+ORD000533,USR0090,2025-03-15 22:54,Resistance Bands Set,Sports & Fitness,2,529,UPI,Coimbatore
+ORD000534,USR0169,2025-03-08 04:50,Parker Pen Gift Set,Books & Stationery,1,703,UPI,Srinagar
+ORD000535,USR0193,2024-09-20 23:39,Bedsheet King Size,Home & Kitchen,3,2329,EMI,Meerut
+ORD000536,USR0038,2024-09-07 08:49,Atomic Habits - James Clear,Books & Stationery,1,450,UPI,Hyderabad
+ORD000537,USR0149,2024-07-04 00:49,Nivia Football Size 5,Sports & Fitness,1,800,UPI,Nagpur
+ORD000538,USR0001,2024-11-07 12:32,Casual T-Shirt,Fashion,1,449,Debit Card,Nagpur
+ORD000539,USR0096,2024-11-27 07:40,Sunglasses Aviator,Accessories,3,1289,Debit Card,Vadodara
+ORD000540,USR0173,2024-09-06 22:52,Protein Shaker Bottle,Sports & Fitness,3,409,Debit Card,Mumbai
+ORD000541,USR0003,2024-12-23 13:23,Boat Airdopes 141,Electronics,1,1462,Cash on Delivery,Visakhapatnam
+ORD000542,USR0093,2025-03-12 20:30,Diary / Planner 2025,Books & Stationery,5,289,UPI,Nagpur
+ORD000543,USR0097,2024-08-11 08:13,Yoga Mat 6mm,Sports & Fitness,4,740,Debit Card,Nagpur
+ORD000544,USR0058,2024-05-22 01:43,Wall Clock Wooden,Home & Kitchen,2,897,Debit Card,Rajkot
+ORD000545,USR0031,2024-12-11 15:52,Atomic Habits - James Clear,Books & Stationery,1,370,Debit Card,Surat
+ORD000546,USR0041,2024-05-01 13:29,Parker Pen Gift Set,Books & Stationery,2,690,Debit Card,Coimbatore
+ORD000547,USR0011,2024-10-09 06:16,MI Smart Band 7,Electronics,3,3392,Cash on Delivery,Thane
+ORD000548,USR0076,2024-10-19 22:50,Atomic Habits - James Clear,Books & Stationery,1,419,UPI,Agra
+ORD000549,USR0051,2024-10-20 10:15,Leggings,Fashion,1,489,Debit Card,Varanasi
+ORD000550,USR0215,2024-04-04 01:26,Parker Pen Gift Set,Books & Stationery,2,740,Debit Card,Chennai
+ORD000551,USR0068,2025-02-09 22:47,Cap / Baseball Hat,Accessories,1,419,Credit Card,Coimbatore
+ORD000552,USR0176,2025-02-04 07:13,Lenovo Wired Keyboard,Electronics,3,960,Debit Card,Pune
+ORD000553,USR0075,2024-10-18 23:16,Boat Airdopes 141,Electronics,1,1489,Credit Card,Ahmedabad
+ORD000554,USR0048,2025-03-06 00:57,Electric Kettle 1.5L,Home & Kitchen,1,1009,UPI,Srinagar
+ORD000555,USR0012,2025-01-08 07:27,Travel Pouch Set,Accessories,4,390,Debit Card,Rajkot
+ORD000556,USR0110,2024-07-11 15:11,Cosco Skipping Rope,Sports & Fitness,3,380,Cash on Delivery,MEERUT
+ORD000557,USR0043,2025-02-04 07:07,Fitness Band Strap,Accessories,2,448,EMI,Coimbatore
+ORD000558,USR0222,2024-03-25 11:12,The Alchemist - Paulo Coelho,Books & Stationery,3,210,UPI,Faridabad
+ORD000559,USR0079,2024-10-12 14:13,Ethnic Saree,Fashion,1,4469,Debit Card,Ludhiana
+ORD000560,USR0176,2024-10-02 23:43,Cotton Bath Towel Set,Home & Kitchen,1,609,Debit Card,Pune
+ORD000561,USR0048,2024-05-19 03:04,Badminton Racket Set,Sports & Fitness,5,2409,Credit Card,Srinagar
+ORD000562,USR0067,2024-10-09 08:02,boAt Rockerz 450 Headphones,Electronics,2,1960,Credit Card,Kolkata
+ORD000563,USR0033,2024-10-10 05:33,Electric Kettle 1.5L,Home & Kitchen,1,1529,UPI,Hyderabad
+ORD000564,USR0004,2024-11-04 13:36,JBL Go 3 Bluetooth Speaker,Electronics,5,2949,UPI,Agra
+ORD000565,USR0025,2024-11-16 00:28,Formal Shirt,Fashion,2,1860,UPI,Bhopal
+ORD000566,USR0045,2025-02-09 05:07,Non-Stick Tawa 30cm,Home & Kitchen,5,949,Credit Card,Amritsar
+ORD000567,USR0039,2024-03-16 08:25,Hoodie,Fashion,1,1629,UPI,Meerut
+ORD000568,USR0173,2024-09-05 18:12,Ethnic Saree,Fashion,1,4409,Debit Card,Mumbai
+ORD000569,USR0077,2024-06-20 19:00,Hair Clip Set,Accessories,2,280,Credit Card,Visakhapatnam
+ORD000570,USR0026,2024-12-17 00:13,Plum Green Tea Toner,Beauty & Personal Care,2,499,Cash on Delivery,Nashik
+ORD000571,USR0007,2024-12-13 18:11,JBL Go 3 Bluetooth Speaker,Electronics,1,2699,Credit Card,Pune
+ORD000572,USR0063,2024-10-01 12:47,Cap / Baseball Hat,Accessories,1,580,UPI,Coimbatore
+ORD000573,USR0154,2024-11-03 05:16,Nivia Football Size 5,Sports & Fitness,2,1400,Cash on Delivery,Ludhiana
+ORD000574,USR0084,2024-07-24 18:16,Diary / Planner 2025,Books & Stationery,1,489,Cash on Delivery,Chennai
+ORD000575,USR0023,2024-07-01 15:40,Mamaearth Onion Shampoo,Beauty & Personal Care,3,439,UPI,Chennai
+ORD000576,USR0006,2024-05-20 20:34,Casual T-Shirt,Fashion,1,442,Debit Card,Chennai
+ORD000577,USR0229,2024-06-10 14:52,Biotique Sunscreen SPF 50,Beauty & Personal Care,3,440,Cash on Delivery,Vadodara
+ORD000578,USR0006,2024-11-04 14:02,Electric Kettle 1.5L,Home & Kitchen,5,1120,UPI,Chennai
+ORD000579,USR0112,2025-03-10 19:26,Non-Stick Tawa 30cm,Home & Kitchen,3,1010,UPI,Kanpur
+ORD000580,USR0221,2024-04-17 17:32,OnePlus Nord CE 3,Electronics,1,24709,Cash on Delivery,Amritsar
+ORD000581,USR0031,2025-02-18 07:35,Running Shoes Men,Sports & Fitness,2,2569,Credit Card,Surat
+ORD000582,USR0018,2025-01-07 06:11,Hair Clip Set,Accessories,2,389,UPI,Kanpur
+ORD000583,USR0020,2024-08-05 17:02,Yoga Mat 6mm,Sports & Fitness,2,1070,Debit Card,Meerut
+ORD000584,USR0012,2024-07-30 04:49,Badminton Racket Set,Sports & Fitness,4,2489,Credit Card,Rajkot
+ORD000585,USR0035,2025-02-03 02:54,Non-Stick Tawa 30cm,Home & Kitchen,1,1019,Cash on Delivery,Chennai
+ORD000586,USR0018,2024-10-18 17:04,Stainless Steel Casserole,Home & Kitchen,5,1279,Cash on Delivery,Kanpur
+ORD000587,USR0028,2025-02-04 19:08,Travel Pouch Set,Accessories,4,670,UPI,Agra
+ORD000588,USR0057,2025-02-07 08:25,Redmi 12C Smartphone,Electronics,1,9249,UPI,Coimbatore
+ORD000589,USR0073,2024-11-01 05:21,Atomic Habits - James Clear,Books & Stationery,1,349,UPI,Amritsar
+ORD000590,USR0004,2024-08-01 16:44,Anarkali Suit,Fashion,5,3519,UPI,Agra
+ORD000591,USR0008,2024-11-24 06:13,Portronics Power Bank 10000mAh,Electronics,4,1020,Cash on Delivery,Srinagar
+ORD000592,USR0016,2024-08-04 07:39,Sunglasses Aviator,Accessories,1,1743,Credit Card,Varanasi
+ORD000593,USR0024,2024-12-21 07:44,Parker Pen Gift Set,Books & Stationery,1,659,UPI,Amritsar
+ORD000594,USR0028,2024-06-20 20:59,Hoodie,Fashion,5,1569,Cash on Delivery,Agra
+ORD000595,USR0002,2024-08-21 17:42,Plum Green Tea Toner,Beauty & Personal Care,3,430,UPI,Chennai
+ORD000596,USR0012,2024-07-23 17:49,Cotton Bath Towel Set,Home & Kitchen,1,830,Debit Card,Rajkot
+ORD000597,USR0018,2024-08-09 09:54,WOW Vitamin C Serum,Beauty & Personal Care,2,709,UPI,Kanpur
+ORD000598,USR0010,2024-08-23 11:15,Silk Scarf,Accessories,2,1019,Debit Card,Agra
+ORD000599,USR0210,2024-07-15 17:34,Non-Stick Tawa 30cm,Home & Kitchen,1,989,Credit Card,Jaipur
+ORD000600,USR0077,2024-11-09 14:14,WOW Vitamin C Serum,Beauty & Personal Care,2,909,UPI,Visakhapatnam
+ORD000601,USR0053,2025-02-26 17:56,HP Wireless Mouse,Electronics,1,820,Cash on Delivery,Jaipur
+ORD000602,USR0248,2024-04-14 07:05,Hoodie,Fashion,1,1389,Credit Card,Agra
+ORD000603,USR0068,2024-12-27 14:59,Lakme Foundation,Beauty & Personal Care,1,589,Credit Card,Coimbatore
+ORD000604,USR0009,2024-11-02 23:23,Parker Pen Gift Set,Books & Stationery,1,1220,EMI,Indore
+ORD000605,USR0001,2025-01-30 19:18,Atomic Habits - James Clear,Books & Stationery,1,359,Debit Card,Nagpur
+ORD000606,USR0012,2024-06-01 17:10,Nivia Football Size 5,Sports & Fitness,3,1479,EMI,Rajkot
+ORD000607,USR0062,2024-04-03 20:31,Badminton Racket Set,Sports & Fitness,1,1959,UPI,Nashik
+ORD000608,USR0013,2024-06-16 12:03,Airtight Container Set,Home & Kitchen,2,470,UPI,Thane
+ORD000609,USR0088,2024-10-31 19:41,Lakme Foundation,Beauty & Personal Care,2,619,UPI,Patna
+ORD000610,USR0072,2024-09-06 22:09,WOW Vitamin C Serum,Beauty & Personal Care,2,810,Credit Card,Srinagar
+ORD000611,USR0008,2024-08-03 20:40,The Moms Co. Baby Wash,Beauty & Personal Care,2,450,UPI,Srinagar
+ORD000612,USR0112,2024-09-01 10:03,Hair Clip Set,Accessories,1,149,EMI,Kanpur
+ORD000613,USR0008,2025-02-02 11:43,Cap / Baseball Hat,Accessories,3,519,UPI,Srinagar
+ORD000614,USR0032,2024-12-05 19:48,Anarkali Suit,Fashion,1,2159,Debit Card,Aurangabad
+ORD000615,USR0091,2024-04-04 09:28,Cosco Skipping Rope,Sports & Fitness,2,219,Cash on Delivery,Jaipur  
+ORD000616,USR0022,2024-05-23 12:20,Mamaearth Onion Shampoo,Beauty & Personal Care,2,379,Credit Card,Lucknow
+ORD000617,USR0178,2025-02-22 03:40,Leather Wallet,Accessories,3,1210,Credit Card,Lucknow
+ORD000618,USR0015,2024-09-10 08:11,HP Wireless Mouse,Electronics,2,629,UPI,Nashik
+ORD000619,USR0019,2024-06-08 14:15,MI Smart Band 7,Electronics,1,3459,Debit Card,Rajkot
+ORD000620,USR0068,2025-01-09 11:48,Biotique Sunscreen SPF 50,Beauty & Personal Care,5,220,Cash on Delivery,Coimbatore
+ORD000621,USR0072,2024-09-02 12:30,Hoodie,Fashion,2,1049,UPI,Srinagar
+ORD000622,USR0076,2024-03-21 15:45,NCERT Class 12 Physics,Books & Stationery,2,299,UPI,Agra
+ORD000623,USR0051,2024-03-27 22:08,Nykaa Lip Gloss Set,Beauty & Personal Care,5,449,UPI,Varanasi
+ORD000624,USR0020,2024-08-19 15:38,Airtight Container Set,Home & Kitchen,1,880,Credit Card,Meerut
+ORD000625,USR0170,2025-03-07 23:30,Non-Stick Tawa 30cm,Home & Kitchen,1,600,Debit Card,Bengaluru
+ORD000626,USR0084,2025-03-05 00:30,Gillette Fusion Razor,Beauty & Personal Care,1,489,Debit Card,Chennai
+ORD000627,USR0002,2025-02-02 23:40,Casual T-Shirt,Fashion,3,609,Debit Card,Chennai
+ORD000628,USR0169,2025-02-07 04:49,Plum Green Tea Toner,Beauty & Personal Care,3,560,EMI,Srinagar
+ORD000629,USR0070,2024-10-15 09:59,Anarkali Suit,Fashion,1,3789,Cash on Delivery,Faridabad
+ORD000630,USR0060,2025-02-01 04:58,Stainless Steel Water Bottle,Accessories,2,589,UPI,Thane
+ORD000631,USR0067,2024-09-19 12:22,Himalaya Face Wash,Beauty & Personal Care,2,249,Credit Card,Kolkata
+ORD000632,USR0051,2024-12-15 21:01,Running Shoes Men,Sports & Fitness,4,2880,Credit Card,Varanasi
+ORD000633,USR0064,2024-06-30 14:14,Dove Body Lotion 400ml,Beauty & Personal Care,5,429,UPI,Nagpur
+ORD000634,USR0211,2024-04-17 15:47,JBL Go 3 Bluetooth Speaker,Electronics,1,3579,UPI,Pune
+ORD000635,USR0004,2025-01-30 23:28,Cap / Baseball Hat,Accessories,1,249,Credit Card,Agra
+ORD000636,USR0014,2024-12-24 15:11,Sticky Notes Multicolor Pack,Books & Stationery,1,140,EMI,Agra
+ORD000637,USR0044,2024-05-10 02:38,Diary / Planner 2025,Books & Stationery,4,449,UPI,Meerut
+ORD000638,USR0068,2024-08-04 00:54,Hoodie,Fashion,1,2119,EMI,Coimbatore
+ORD000639,USR0044,2024-03-25 02:43,Portronics Power Bank 10000mAh,Electronics,5,1539,Credit Card,Meerut
+ORD000640,USR0075,2025-01-11 14:37,Dustbin with Lid 10L,Home & Kitchen,4,679,Credit Card,Ahmedabad
+ORD000641,USR0215,2024-04-19 03:54,Sticky Notes Multicolor Pack,Books & Stationery,1,179,Debit Card,Chennai
+ORD000642,USR0094,2024-04-27 10:26,Parker Pen Gift Set,Books & Stationery,1,1289,EMI,Patna
+ORD000643,USR0146,2024-06-06 00:00,Travel Pouch Set,Accessories,2,359,UPI,Varanasi
+ORD000644,USR0199,2024-10-22 11:49,Mamaearth Onion Shampoo,Beauty & Personal Care,1,329,Credit Card,Rajkot
+ORD000645,USR0093,2024-12-21 20:32,boAt Rockerz 450 Headphones,Electronics,3,2329,EMI,Nagpur
+ORD000646,USR0012,2024-09-12 18:11,Anarkali Suit,Fashion,1,3709,EMI,Rajkot
+ORD000647,USR0098,2024-11-09 23:11,Gillette Fusion Razor,Beauty & Personal Care,1,520,Debit Card,Bengaluru
+ORD000648,USR0038,2024-06-03 12:30,Mamaearth Onion Shampoo,Beauty & Personal Care,1,402,Debit Card,Hyderabad
+ORD000649,USR0219,2024-08-02 16:05,Ethnic Saree,Fashion,4,4779,Cash on Delivery,Hyderabad
+ORD000650,USR0003,2024-07-16 22:19,Cotton Bath Towel Set,Home & Kitchen,4,1239,Credit Card,Visakhapatnam
+ORD000651,USR0019,2025-02-23 10:45,boAt Rockerz 450 Headphones,Electronics,2,2150,UPI,Rajkot
+ORD000652,USR0153,2024-10-19 07:35,Running Shoes Men,Sports & Fitness,2,3259,UPI,Delhi
+ORD000653,USR0194,2024-06-26 08:38,Yoga Mat 6mm,Sports & Fitness,2,590,Credit Card,Amritsar
+ORD000654,USR0011,2024-08-14 21:15,Running Shoes Men,Sports & Fitness,1,1540,Credit Card,Thane
+ORD000655,USR0016,2024-11-17 11:46,NCERT Class 12 Physics,Books & Stationery,2,360,Debit Card,Varanasi
+ORD000656,USR0085,2025-02-15 02:32,OnePlus Nord CE 3,Electronics,4,23190,EMI,Meerut
+ORD000657,USR0027,2024-03-29 07:46,JBL Go 3 Bluetooth Speaker,Electronics,2,3549,Debit Card,Chennai
+ORD000658,USR0019,2024-10-28 14:42,Dove Body Lotion 400ml,Beauty & Personal Care,1,449,Credit Card,Rajkot
+ORD000659,USR0206,2024-07-06 02:48,Biotique Sunscreen SPF 50,Beauty & Personal Care,4,230,UPI,Kanpur
+ORD000660,USR0018,2025-01-11 01:40,Yoga Mat 6mm,Sports & Fitness,4,1084,Credit Card,Kanpur
+ORD000661,USR0142,2025-02-02 02:17,Mamaearth Onion Shampoo,Beauty & Personal Care,1,319,Cash on Delivery,Agra
+ORD000662,USR0040,2024-10-30 04:49,Ethnic Saree,Fashion,1,3559,EMI,Ahmedabad
+ORD000663,USR0016,2024-09-21 17:57,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,429,UPI,Varanasi
+ORD000664,USR0037,2024-11-04 08:09,Nivia Football Size 5,Sports & Fitness,1,1020,EMI,Ahmedabad
+ORD000665,USR0063,2025-03-03 08:46,Realme Buds Wireless,Electronics,2,1500,Credit Card,Coimbatore
+ORD000666,USR0066,2024-04-28 02:29,JBL Go 3 Bluetooth Speaker,Electronics,1,2539,Cash on Delivery,Amritsar
+ORD000667,USR0014,2024-10-26 12:51,Formal Shirt,Fashion,1,1019,Cash on Delivery,Agra
+ORD000668,USR0029,2025-02-06 18:44,Running Shoes Men,Sports & Fitness,1,3449,Credit Card,Indore
+ORD000669,USR0009,2024-12-04 02:27,Classmate Notebook Pack of 6,Books & Stationery,2,310,EMI,Indore
+ORD000670,USR0061,2024-11-03 16:40,Protein Shaker Bottle,Sports & Fitness,1,480,EMI,Meerut
+ORD000671,USR0183,2025-01-11 03:28,MI Smart Band 7,Electronics,1,2900,Credit Card,Srinagar
+ORD000672,USR0049,2024-04-08 05:08,Nykaa Lip Gloss Set,Beauty & Personal Care,2,359,Cash on Delivery,Mumbai
+ORD000673,USR0014,2024-11-02 19:14,Bamboo Cutting Board,Home & Kitchen,1,460,Debit Card,Agra
+ORD000674,USR0055,2024-04-25 12:40,Himalaya Face Wash,Beauty & Personal Care,1,180,UPI,Lucknow
+ORD000675,USR0103,2024-04-20 23:46,Casual T-Shirt,Fashion,4,409,Debit Card,Kolkata
+ORD000676,USR0069,2024-06-05 16:08,Mamaearth Onion Shampoo,Beauty & Personal Care,2,460,UPI,Agra
+ORD000677,USR0099,2024-09-22 07:04,Cap / Baseball Hat,Accessories,1,470,Debit Card,Kolkata
+ORD000678,USR0148,2024-12-08 16:17,Nykaa Lip Gloss Set,Beauty & Personal Care,2,400,Credit Card,Mumbai
+ORD000679,USR0016,2024-12-23 09:05,NCERT Class 12 Physics,Books & Stationery,1,370,Cash on Delivery,VARANASI
+ORD000680,USR0044,2024-08-09 16:33,Stainless Steel Casserole,Home & Kitchen,1,1719,Credit Card,Meerut
+ORD000681,USR0240,2024-04-07 13:51,Nivia Football Size 5,Sports & Fitness,1,1439,UPI,Lucknow
+ORD000682,USR0019,2024-12-28 22:41,Leggings,Fashion,1,499,Credit Card,Rajkot
+ORD000683,USR0087,2024-12-29 06:37,The Moms Co. Baby Wash,Beauty & Personal Care,1,600,Credit Card,Lucknow
+ORD000684,USR0013,2025-02-05 22:37,Nivia Football Size 5,Sports & Fitness,5,1049,EMI,Thane
+ORD000685,USR0034,2025-03-02 00:09,Lakme Foundation,Beauty & Personal Care,3,479,Debit Card,Visakhapatnam
+ORD000686,USR0016,2024-06-26 01:43,Classmate Notebook Pack of 6,Books & Stationery,2,309,UPI,Varanasi
+ORD000687,USR0008,2024-10-16 12:46,Men's Slim Fit Jeans,Fashion,4,1129,UPI,Srinagar
+ORD000688,USR0035,2025-03-06 02:47,Protein Shaker Bottle,Sports & Fitness,2,439,UPI,Chennai
+ORD000689,USR0238,2024-08-11 11:56,Dumbbell Pair 5kg,Sports & Fitness,2,1340,UPI,Varanasi
+ORD000690,USR0041,2024-10-28 23:50,Dustbin with Lid 10L,Home & Kitchen,1,440,UPI,Coimbatore
+ORD000691,USR0025,2024-05-26 03:45,Leggings,Fashion,1,400,Credit Card,Bhopal
+ORD000692,USR0015,2025-02-02 13:09,Dustbin with Lid 10L,Home & Kitchen,1,689,Cash on Delivery,Nashik
+ORD000693,USR0068,2025-02-20 01:07,Cushion Cover Set of 5,Home & Kitchen,2,550,Credit Card,Coimbatore
+ORD000694,USR0183,2024-11-27 21:54,Formal Shirt,Fashion,5,1409,Credit Card,Srinagar
+ORD000695,USR0064,2024-04-17 04:01,Hoodie,Fashion,1,2030,EMI,Nagpur
+ORD000696,USR0059,2024-08-11 22:30,Denim Shorts,Fashion,2,1369,Debit Card,Rajkot
+ORD000697,USR0086,2024-09-06 18:23,Bedsheet King Size,Home & Kitchen,2,2969,UPI,Agra
+ORD000698,USR0011,2024-08-25 19:58,Track Pants,Fashion,1,1249,Debit Card,Thane
+ORD000699,USR0033,2024-03-24 03:48,Gillette Fusion Razor,Beauty & Personal Care,5,490,Debit Card,Hyderabad
+ORD000700,USR0078,2024-07-14 19:37,Realme Buds Wireless,Electronics,2,1509,Credit Card,Lucknow
+ORD000701,USR0088,2024-08-15 01:54,Dumbbell Pair 5kg,Sports & Fitness,5,1989,Debit Card,Patna
+ORD000702,USR0096,2025-01-14 18:13,Classmate Notebook Pack of 6,Books & Stationery,1,299,Credit Card,Vadodara
+ORD000703,USR0082,2024-04-20 15:29,Diary / Planner 2025,Books & Stationery,2,369,Debit Card,Thane
+ORD000704,USR0070,2024-04-08 18:18,Wall Clock Wooden,Home & Kitchen,4,1399,UPI,Faridabad
+ORD000705,USR0005,2025-01-25 20:46,Boat Airdopes 141,Electronics,1,1599,Debit Card,Varanasi
+ORD000706,USR0006,2024-06-01 12:40,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,200,UPI,Chennai
+ORD000707,USR0001,2024-12-14 01:02,Stainless Steel Water Bottle,Accessories,1,650,Credit Card,Nagpur
+ORD000708,USR0113,2024-12-05 03:59,Track Pants,Fashion,4,630,EMI,Indore
+ORD000709,USR0213,2024-07-27 02:05,Hair Clip Set,Accessories,4,229,Debit Card,Mumbai
+ORD000710,USR0007,2024-09-06 20:19,Sunglasses Aviator,Accessories,1,589,Cash on Delivery,Pune
+ORD000711,USR0014,2025-02-14 13:45,Stainless Steel Water Bottle,Accessories,1,570,Credit Card,Agra
+ORD000712,USR0080,2024-07-26 08:38,HP Wireless Mouse,Electronics,2,700,UPI,Delhi
+ORD000713,USR0017,2025-01-25 16:43,Redmi 12C Smartphone,Electronics,1,9759,Debit Card,Pune  
+ORD000714,USR0066,2024-05-10 21:46,Lakme Foundation,Beauty & Personal Care,1,449,UPI,Amritsar
+ORD000715,USR0015,2024-09-15 07:47,The Moms Co. Baby Wash,Beauty & Personal Care,1,430,UPI,Nashik
+ORD000716,USR0037,2024-04-19 22:34,Protein Shaker Bottle,Sports & Fitness,1,399,Debit Card,Ahmedabad
+ORD000717,USR0244,2024-04-27 18:02,The Alchemist - Paulo Coelho,Books & Stationery,1,279,UPI,Indore
+ORD000718,USR0223,2024-04-02 05:22,Airtight Container Set,Home & Kitchen,1,1000,Debit Card,Bengaluru
+ORD000719,USR0192,2025-01-08 06:54,Analog Wrist Watch,Accessories,1,2869,UPI,Visakhapatnam
+ORD000720,USR0029,2024-06-20 09:21,Camlin Watercolor Set,Books & Stationery,2,299,EMI,Indore  
+ORD000721,USR0016,2024-12-20 13:49,Analog Wrist Watch,Accessories,3,1399,UPI,Varanasi
+ORD000722,USR0095,2024-08-23 20:56,Yoga Mat 6mm,Sports & Fitness,1,609,EMI,Surat
+ORD000723,USR0039,2024-11-01 09:54,Gillette Fusion Razor,Beauty & Personal Care,2,549,EMI,Meerut
+ORD000724,USR0002,2025-03-12 18:38,Hoodie,Fashion,3,2019,Cash on Delivery,Chennai
+ORD000725,USR0020,2025-03-13 23:49,Atomic Habits - James Clear,Books & Stationery,5,469,Credit Card,Meerut
+ORD000726,USR0001,2024-11-08 07:35,Redmi 12C Smartphone,Electronics,1,9169,UPI,Nagpur
+ORD000727,USR0003,2025-02-25 05:14,boAt Rockerz 450 Headphones,Electronics,1,2299,Credit Card,Visakhapatnam
+ORD000728,USR0237,2024-07-23 02:04,NCERT Class 12 Physics,Books & Stationery,2,269,UPI,Rajkot
+ORD000729,USR0003,2025-03-04 19:01,Airtight Container Set,Home & Kitchen,3,679,EMI,Visakhapatnam
+ORD000730,USR0013,2024-09-28 23:24,Cotton Bath Towel Set,Home & Kitchen,2,960,UPI,Thane
+ORD000731,USR0011,2025-02-27 14:26,Sunglasses Aviator,Accessories,1,1514,UPI,Thane
+ORD000732,USR0100,2024-07-17 06:06,Men's Slim Fit Jeans,Fashion,2,2699,Debit Card,Kolkata
+ORD000733,USR0174,2024-08-30 21:09,Leggings,Fashion,4,359,Cash on Delivery,Kolkata
+ORD000734,USR0147,2024-04-16 02:00,Dumbbell Pair 5kg,Sports & Fitness,1,1499,UPI,Jaipur
+ORD000735,USR0011,2025-01-23 16:14,Dumbbell Pair 5kg,Sports & Fitness,5,2279,Credit Card,Thane
+ORD000736,USR0222,2024-08-28 10:00,Classmate Notebook Pack of 6,Books & Stationery,1,320,Credit Card,Faridabad
+ORD000737,USR0130,2024-09-25 10:54,Wall Clock Wooden,Home & Kitchen,5,739,EMI,Agra
+ORD000738,USR0092,2024-10-02 01:24,OnePlus Nord CE 3,Electronics,2,24959,UPI,Visakhapatnam
+ORD000739,USR0190,2024-05-08 23:54,Cushion Cover Set of 5,Home & Kitchen,2,890,Debit Card,Coimbatore
+ORD000740,USR0149,2024-12-14 04:10,Stainless Steel Casserole,Home & Kitchen,3,1450,Cash on Delivery,Nagpur
+ORD000741,USR0005,2025-02-15 17:41,Formal Shirt,Fashion,2,2409,Credit Card,Varanasi
+ORD000742,USR0004,2025-02-02 07:27,Cap / Baseball Hat,Accessories,2,510,UPI,Agra
+ORD000743,USR0066,2024-08-10 20:07,Yoga Mat 6mm,Sports & Fitness,2,579,Debit Card,Amritsar
+ORD000744,USR0008,2025-01-09 22:44,Ethnic Saree,Fashion,2,1979,UPI,Srinagar
+ORD000745,USR0006,2025-02-06 11:44,The Moms Co. Baby Wash,Beauty & Personal Care,1,469,Debit Card,Chennai
+ORD000746,USR0090,2025-02-28 10:49,Stainless Steel Water Bottle,Accessories,3,610,UPI,Coimbatore
+ORD000747,USR0019,2024-09-04 01:16,Biotique Sunscreen SPF 50,Beauty & Personal Care,1,439,EMI,Rajkot
+ORD000748,USR0019,2024-10-04 03:54,Analog Wrist Watch,Accessories,1,729,EMI,Rajkot
+ORD000749,USR0015,2024-10-27 12:38,Badminton Racket Set,Sports & Fitness,2,1039,UPI,Nashik
+ORD000750,USR0016,2024-06-09 14:34,"Samsung 32"" LED TV",Electronics,1,22929,Cash on Delivery,Varanasi
+ORD000751,USR0032,2024-09-10 15:37,Fitness Band Strap,Accessories,1,490,UPI,Aurangabad
+ORD000752,USR0024,2024-05-18 07:12,Plum Green Tea Toner,Beauty & Personal Care,1,409,EMI,Amritsar
+ORD000753,USR0003,2025-01-18 15:39,Women's Kurti,Fashion,3,630,Cash on Delivery,Visakhapatnam
+ORD000754,USR0095,2024-05-04 19:15,Denim Shorts,Fashion,1,1489,Credit Card,Surat
+ORD000755,USR0143,2025-01-17 15:40,Analog Wrist Watch,Accessories,2,3259,EMI,Agra
+ORD000756,USR0220,2024-04-21 12:05,Stainless Steel Casserole,Home & Kitchen,2,1550,Debit Card,AURANGABAD
+ORD000757,USR0042,2024-06-21 03:34,Electric Kettle 1.5L,Home & Kitchen,1,1140,Debit Card,Ahmedabad
+ORD000758,USR0019,2025-03-06 23:52,Resistance Bands Set,Sports & Fitness,2,469,Credit Card,Rajkot
+ORD000759,USR0023,2024-08-25 08:28,Protein Shaker Bottle,Sports & Fitness,4,560,UPI,Chennai
+ORD000760,USR0069,2024-03-26 17:11,Electric Kettle 1.5L,Home & Kitchen,1,1560,Credit Card,Agra
+ORD000761,USR0182,2024-10-28 21:59,Diary / Planner 2025,Books & Stationery,1,350,UPI,Coimbatore
+ORD000762,USR0231,2024-07-14 21:37,Atomic Habits - James Clear,Books & Stationery,2,370,Cash on Delivery,Amritsar
+ORD000763,USR0011,2024-09-07 18:29,Nykaa Lip Gloss Set,Beauty & Personal Care,1,469,UPI,Thane
+ORD000764,USR0042,2024-08-01 02:32,Plum Green Tea Toner,Beauty & Personal Care,3,518,Cash on Delivery,Ahmedabad
+ORD000765,USR0087,2024-03-23 17:31,Gillette Fusion Razor,Beauty & Personal Care,1,519,Debit Card,Lucknow
+ORD000766,USR0242,2024-05-06 12:23,The Moms Co. Baby Wash,Beauty & Personal Care,1,460,UPI,Aurangabad
+ORD000767,USR0094,2024-10-03 13:47,Airtight Container Set,Home & Kitchen,1,629,Debit Card,Patna
+ORD000768,USR0151,2025-02-27 12:07,Cushion Cover Set of 5,Home & Kitchen,4,420,Debit Card,Delhi
+ORD000769,USR0100,2025-02-15 22:18,Leather Wallet,Accessories,4,1289,Cash on Delivery,Kolkata
+ORD000770,USR0014,2024-05-21 04:59,Sticky Notes Multicolor Pack,Books & Stationery,4,179,UPI,Agra
+ORD000771,USR0056,2025-01-09 15:55,Resistance Bands Set,Sports & Fitness,4,620,UPI,Chennai
+ORD000772,USR0042,2024-07-31 14:53,Travel Pouch Set,Accessories,2,419,Credit Card,Ahmedabad
+ORD000773,USR0054,2025-01-09 04:42,Dumbbell Pair 5kg,Sports & Fitness,4,1190,UPI,Jaipur
+ORD000774,USR0099,2024-03-16 00:10,Dumbbell Pair 5kg,Sports & Fitness,1,1880,UPI,Kolkata
+ORD000775,USR0132,2024-11-05 20:22,Sunglasses Aviator,Accessories,1,1420,Debit Card,Mumbai
+ORD000776,USR0131,2024-04-18 02:23,Gillette Fusion Razor,Beauty & Personal Care,2,580,Debit Card,Lucknow
+ORD000777,USR0003,2025-01-08 12:04,Formal Shirt,Fashion,2,1610,Cash on Delivery,Visakhapatnam
+ORD000778,USR0069,2025-01-23 01:39,Track Pants,Fashion,2,609,UPI,Agra
+ORD000779,USR0010,2024-11-30 15:31,Leather Wallet,Accessories,2,1170,UPI,Agra
+ORD000780,USR0001,2024-11-25 03:21,Resistance Bands Set,Sports & Fitness,3,699,EMI,Nagpur
+ORD000781,USR0069,2024-12-17 17:14,Portronics Power Bank 10000mAh,Electronics,2,1619,Credit Card,Agra
+ORD000782,USR0008,2024-08-12 01:18,Leggings,Fashion,3,689,UPI,Srinagar
+ORD000783,USR0073,2025-02-11 02:09,WOW Vitamin C Serum,Beauty & Personal Care,4,780,Cash on Delivery,Amritsar
+ORD000784,USR0049,2024-11-24 12:00,Anarkali Suit,Fashion,2,3310,UPI,Mumbai
+ORD000785,USR0191,2024-05-24 19:10,Non-Stick Tawa 30cm,Home & Kitchen,3,864,UPI,Thane
+ORD000786,USR0067,2024-12-15 09:18,Noise ColorFit Pro 4 Smartwatch,Electronics,2,3849,Debit Card,Kolkata
+ORD000787,USR0059,2024-08-10 08:02,Sticky Notes Multicolor Pack,Books & Stationery,1,180,UPI,Rajkot
+ORD000788,USR0129,2024-03-18 02:27,Lakme Foundation,Beauty & Personal Care,2,799,Cash on Delivery,Surat
+ORD000789,USR0075,2025-01-08 14:46,Track Pants,Fashion,1,739,UPI,Ahmedabad
+ORD000790,USR0025,2025-01-28 15:54,Atomic Habits - James Clear,Books & Stationery,2,479,Debit Card,Bhopal
+ORD000791,USR0012,2025-01-09 14:52,Anarkali Suit,Fashion,4,1550,Debit Card,Rajkot
+ORD000792,USR0084,2024-05-08 16:28,OnePlus Nord CE 3,Electronics,3,24200,UPI,Chennai
+ORD000793,USR0050,2024-12-12 01:50,Stainless Steel Casserole,Home & Kitchen,5,869,UPI,Ludhiana
+ORD000794,USR0097,2024-10-05 00:54,Cosco Skipping Rope,Sports & Fitness,4,399,UPI,Nagpur
+ORD000795,USR0067,2025-03-05 07:08,Hair Clip Set,Accessories,3,349,EMI,Kolkata
+ORD000796,USR0013,2025-03-13 02:20,Parker Pen Gift Set,Books & Stationery,2,1290,UPI,Thane
+ORD000797,USR0005,2025-01-07 14:26,The Moms Co. Baby Wash,Beauty & Personal Care,2,479,Debit Card,VARANASI
+ORD000798,USR0039,2024-04-19 17:02,Classmate Notebook Pack of 6,Books & Stationery,5,349,Debit Card,Meerut
+ORD000799,USR0016,2024-09-15 19:40,Track Pants,Fashion,2,909,Debit Card,Varanasi
+ORD000800,USR0053,2025-02-08 02:37,Biotique Sunscreen SPF 50,Beauty & Personal Care,1,409,Debit Card,Jaipur
+ORD000801,USR0021,2024-12-02 04:45,Men's Slim Fit Jeans,Fashion,1,2139,Debit Card,Vadodara
+ORD000802,USR0007,2024-09-07 01:15,Diary / Planner 2025,Books & Stationery,1,219,Debit Card,Pune
+ORD000803,USR0084,2024-12-11 20:33,Classmate Notebook Pack of 6,Books & Stationery,1,330,Credit Card,Chennai
+ORD000804,USR0027,2024-04-16 20:24,Hoodie,Fashion,3,1460,UPI,Chennai
+ORD000805,USR0163,2024-12-05 03:09,Classmate Notebook Pack of 6,Books & Stationery,1,269,UPI,Jaipur
+ORD000806,USR0094,2024-10-24 20:27,WOW Vitamin C Serum,Beauty & Personal Care,4,760,UPI,Patna
+ORD000807,USR0168,2024-10-27 22:53,Track Pants,Fashion,4,1089,Debit Card,Delhi
+ORD000808,USR0014,2025-02-19 06:18,Dumbbell Pair 5kg,Sports & Fitness,4,2189,Credit Card,Agra
+ORD000809,USR0044,2024-06-15 09:58,"Samsung 32"" LED TV",Electronics,1,20410,Credit Card,Meerut
+ORD000810,USR0007,2024-09-24 19:17,Badminton Racket Set,Sports & Fitness,2,1960,UPI,PUNE
+ORD000811,USR0053,2024-12-24 09:22,Bedsheet King Size,Home & Kitchen,2,1989,Credit Card,Jaipur
+ORD000812,USR0019,2024-09-25 11:56,Badminton Racket Set,Sports & Fitness,2,2060,EMI,Rajkot
+ORD000813,USR0007,2025-02-24 13:12,Nykaa Lip Gloss Set,Beauty & Personal Care,1,360,Cash on Delivery,Pune
+ORD000814,USR0055,2024-07-23 07:09,Sticky Notes Multicolor Pack,Books & Stationery,1,240,UPI,Lucknow
+ORD000815,USR0039,2024-06-17 13:27,Dove Body Lotion 400ml,Beauty & Personal Care,5,259,Credit Card,Meerut
+ORD000816,USR0071,2024-04-28 06:56,Mamaearth Onion Shampoo,Beauty & Personal Care,1,360,UPI,DELHI
+ORD000817,USR0006,2024-07-03 11:21,JBL Go 3 Bluetooth Speaker,Electronics,4,3820,Debit Card,Chennai
+ORD000818,USR0057,2024-11-19 14:56,Sticky Notes Multicolor Pack,Books & Stationery,2,150,UPI,Coimbatore
+ORD000819,USR0007,2024-08-23 14:44,Plum Green Tea Toner,Beauty & Personal Care,2,479,Debit Card,Pune
+ORD000820,USR0018,2024-10-13 01:06,Noise ColorFit Pro 4 Smartwatch,Electronics,4,4339,Debit Card,Kanpur
+ORD000821,USR0004,2025-01-01 07:06,Diary / Planner 2025,Books & Stationery,4,211,UPI,Agra
+ORD000822,USR0078,2024-08-31 17:11,Parker Pen Gift Set,Books & Stationery,3,1279,Debit Card,Lucknow
+ORD000823,USR0015,2024-12-04 03:43,Resistance Bands Set,Sports & Fitness,2,600,Cash on Delivery,Nashik
+ORD000824,USR0005,2025-01-01 19:25,Cap / Baseball Hat,Accessories,5,500,Debit Card,Varanasi
+ORD000825,USR0090,2024-03-21 18:10,Classmate Notebook Pack of 6,Books & Stationery,3,309,Credit Card,Coimbatore
+ORD000826,USR0010,2024-08-18 04:05,boAt Rockerz 450 Headphones,Electronics,3,1480,Credit Card,Agra
+ORD000827,USR0160,2025-01-03 03:29,MI Smart Band 7,Electronics,5,3209,Credit Card,Bhopal
+ORD000828,USR0203,2024-07-26 10:03,Dove Body Lotion 400ml,Beauty & Personal Care,3,430,Debit Card,Faridabad
+ORD000829,USR0084,2025-01-10 10:15,boAt Rockerz 450 Headphones,Electronics,1,1769,UPI,Chennai
+ORD000830,USR0021,2025-01-07 01:11,Analog Wrist Watch,Accessories,2,1319,UPI,Vadodara
+ORD000831,USR0192,2024-06-02 23:51,Realme Buds Wireless,Electronics,4,1369,Cash on Delivery,Visakhapatnam
+ORD000832,USR0034,2024-07-27 02:23,Lenovo Wired Keyboard,Electronics,2,959,EMI,Visakhapatnam
+ORD000833,USR0026,2024-08-04 01:37,Portronics Power Bank 10000mAh,Electronics,5,1339,Cash on Delivery,Nashik
+ORD000834,USR0060,2024-12-06 17:32,Leggings,Fashion,2,410,Debit Card,Thane
+ORD000835,USR0003,2024-09-13 12:54,Women's Kurti,Fashion,1,1309,Cash on Delivery,Visakhapatnam
+ORD000836,USR0120,2024-05-11 03:58,Lenovo Wired Keyboard,Electronics,2,740,Credit Card,Pune
+ORD000837,USR0007,2024-08-23 09:58,Redmi 12C Smartphone,Electronics,3,9629,UPI,Pune
+ORD000838,USR0097,2024-06-16 20:22,OnePlus Nord CE 3,Electronics,2,20780,Cash on Delivery,Nagpur
+ORD000839,USR0009,2025-03-13 18:55,Fitness Band Strap,Accessories,5,399,UPI,Indore
+ORD000840,USR0071,2024-07-15 11:06,Dumbbell Pair 5kg,Sports & Fitness,3,1529,UPI,Delhi
+ORD000841,USR0011,2024-06-17 16:48,Nykaa Lip Gloss Set,Beauty & Personal Care,2,369,UPI,Thane
+ORD000842,USR0088,2024-04-08 05:28,Wall Clock Wooden,Home & Kitchen,1,739,Credit Card,Patna
+ORD000843,USR0066,2024-11-29 06:54,Hair Clip Set,Accessories,2,359,Debit Card,Amritsar
+ORD000844,USR0025,2024-09-07 07:53,WOW Vitamin C Serum,Beauty & Personal Care,2,600,UPI,Bhopal
+ORD000845,USR0004,2024-06-09 04:46,Denim Shorts,Fashion,3,1229,UPI,Agra
+ORD000846,USR0201,2024-08-10 18:02,Dumbbell Pair 5kg,Sports & Fitness,1,1489,Credit Card,Kanpur
+ORD000847,USR0236,2024-06-05 14:19,Sticky Notes Multicolor Pack,Books & Stationery,1,199,Credit Card,Bengaluru
+ORD000848,USR0166,2025-01-23 18:11,MI Smart Band 7,Electronics,1,2809,UPI,Thane
+ORD000849,USR0029,2024-06-01 14:44,Realme Buds Wireless,Electronics,5,900,Cash on Delivery,Indore
+ORD000850,USR0089,2024-08-16 15:13,Himalaya Face Wash,Beauty & Personal Care,3,280,UPI,Visakhapatnam
+ORD000851,USR0030,2024-04-28 13:26,Cushion Cover Set of 5,Home & Kitchen,1,549,Credit Card,Surat
+ORD000852,USR0102,2024-06-30 10:53,Travel Pouch Set,Accessories,1,521,UPI,Thane
+ORD000853,USR0103,2024-05-14 16:08,WOW Vitamin C Serum,Beauty & Personal Care,2,989,Cash on Delivery,KOLKATA
+ORD000854,USR0039,2025-01-15 00:04,Wall Clock Wooden,Home & Kitchen,1,1019,Debit Card,Meerut
+ORD000855,USR0055,2024-12-11 12:59,Realme Buds Wireless,Electronics,3,1349,Debit Card,Lucknow
+ORD000856,USR0024,2024-08-05 19:51,Dustbin with Lid 10L,Home & Kitchen,2,404,UPI,Amritsar
+ORD000857,USR0001,2024-06-17 18:42,Parker Pen Gift Set,Books & Stationery,3,1199,UPI,Nagpur
+ORD000858,USR0209,2024-04-29 02:03,Protein Shaker Bottle,Sports & Fitness,1,480,UPI,Nashik
+ORD000859,USR0039,2024-09-29 06:02,Dove Body Lotion 400ml,Beauty & Personal Care,1,390,Credit Card,Meerut
+ORD000860,USR0009,2024-12-24 04:34,"Samsung 32"" LED TV",Electronics,1,17009,UPI,Indore
+ORD000861,USR0084,2024-06-07 20:29,Bedsheet King Size,Home & Kitchen,2,2999,Credit Card,Chennai
+ORD000862,USR0109,2024-07-21 18:05,Hair Clip Set,Accessories,1,239,Cash on Delivery,Lucknow
+ORD000863,USR0001,2024-12-03 17:28,Yoga Mat 6mm,Sports & Fitness,1,960,UPI,Nagpur
+ORD000864,USR0001,2024-07-08 01:21,WOW Vitamin C Serum,Beauty & Personal Care,2,579,UPI,Nagpur
+ORD000865,USR0020,2024-11-12 00:52,Dumbbell Pair 5kg,Sports & Fitness,3,1649,UPI,Meerut
+ORD000866,USR0008,2024-06-15 18:44,Cushion Cover Set of 5,Home & Kitchen,2,599,UPI,Srinagar
+ORD000867,USR0123,2024-07-15 16:14,Non-Stick Tawa 30cm,Home & Kitchen,1,959,EMI,Thane
+ORD000868,USR0076,2024-04-11 20:55,Formal Shirt,Fashion,1,2079,UPI,Agra
+ORD000869,USR0014,2024-09-21 20:02,Bedsheet King Size,Home & Kitchen,3,1600,Credit Card,Agra
+ORD000870,USR0217,2024-07-20 05:27,Cap / Baseball Hat,Accessories,3,220,UPI,Kanpur
+ORD000871,USR0081,2025-02-10 10:14,OnePlus Nord CE 3,Electronics,4,20660,UPI,Ludhiana
+ORD000872,USR0004,2024-08-10 02:36,Protein Shaker Bottle,Sports & Fitness,1,330,UPI,Agra
+ORD000873,USR0121,2024-06-24 13:49,Hoodie,Fashion,5,2189,UPI,Pune
+ORD000874,USR0163,2024-07-30 15:44,HP Wireless Mouse,Electronics,1,790,EMI,Jaipur
+ORD000875,USR0075,2024-05-10 16:58,"Samsung 32"" LED TV",Electronics,1,19300,Debit Card,Ahmedabad
+ORD000876,USR0052,2024-04-26 01:52,Boat Airdopes 141,Electronics,1,1319,Cash on Delivery,Hyderabad
+ORD000877,USR0054,2024-07-02 11:51,Silk Scarf,Accessories,1,589,Debit Card,Jaipur
+ORD000878,USR0006,2024-09-24 07:02,Portronics Power Bank 10000mAh,Electronics,1,1549,EMI,Chennai
+ORD000879,USR0020,2024-08-23 18:00,NCERT Class 12 Physics,Books & Stationery,5,389,UPI,Meerut
+ORD000880,USR0152,2024-07-18 16:29,Hoodie,Fashion,1,1399,Cash on Delivery,Lucknow
+ORD000881,USR0064,2024-07-13 10:49,Mamaearth Onion Shampoo,Beauty & Personal Care,2,429,Debit Card,NAGPUR
+ORD000882,USR0041,2024-10-09 18:02,Himalaya Face Wash,Beauty & Personal Care,4,209,Credit Card,Coimbatore
+ORD000883,USR0030,2024-08-04 15:52,Hoodie,Fashion,1,1329,Cash on Delivery,Surat
+ORD000884,USR0013,2024-07-13 21:07,Sticky Notes Multicolor Pack,Books & Stationery,1,169,Credit Card,Thane
+ORD000885,USR0200,2024-04-06 14:09,Dove Body Lotion 400ml,Beauty & Personal Care,1,380,Cash on Delivery,NAGPUR
+ORD000886,USR0046,2024-09-23 06:44,Noise ColorFit Pro 4 Smartwatch,Electronics,1,4830,EMI,Vadodara
+ORD000887,USR0025,2024-12-24 00:11,Silk Scarf,Accessories,1,1219,EMI,Bhopal
+ORD000888,USR0017,2024-12-23 12:02,"Samsung 32"" LED TV",Electronics,1,22410,Debit Card,Pune
+ORD000889,USR0016,2024-09-02 08:37,Yoga Mat 6mm,Sports & Fitness,2,659,UPI,Varanasi
+ORD000890,USR0002,2025-02-01 12:13,Hair Clip Set,Accessories,3,330,Cash on Delivery,Chennai
+ORD000891,USR0009,2024-10-15 20:15,Cap / Baseball Hat,Accessories,1,419,UPI,Indore
+ORD000892,USR0075,2024-10-25 14:34,Sticky Notes Multicolor Pack,Books & Stationery,2,149,UPI,Ahmedabad
+ORD000893,USR0009,2024-12-06 14:58,Cosco Skipping Rope,Sports & Fitness,1,489,Debit Card,Indore
+ORD000894,USR0090,2024-07-13 11:10,Classmate Notebook Pack of 6,Books & Stationery,1,329,Credit Card,Coimbatore
+ORD000895,USR0016,2025-01-30 18:01,Fitness Band Strap,Accessories,3,220,UPI,Varanasi
+ORD000896,USR0014,2025-02-19 14:29,Fitness Band Strap,Accessories,3,369,EMI,Agra
+ORD000897,USR0124,2024-09-24 17:09,JBL Go 3 Bluetooth Speaker,Electronics,3,3299,Credit Card,Varanasi
+ORD000898,USR0014,2024-11-18 10:47,Boat Airdopes 141,Electronics,2,1450,UPI,Agra
+ORD000899,USR0032,2024-10-15 06:12,Bamboo Cutting Board,Home & Kitchen,1,779,UPI,Aurangabad
+ORD000900,USR0010,2024-12-02 11:01,Analog Wrist Watch,Accessories,1,2660,Credit Card,Agra
+ORD000901,USR0057,2024-05-11 14:57,Cotton Bath Towel Set,Home & Kitchen,3,869,UPI,Coimbatore
+ORD000902,USR0095,2025-02-19 02:51,Casual T-Shirt,Fashion,5,640,UPI,Surat
+ORD000903,USR0004,2024-09-28 23:30,Atomic Habits - James Clear,Books & Stationery,2,470,Debit Card,Agra
+ORD000904,USR0009,2024-12-18 22:30,Yoga Mat 6mm,Sports & Fitness,2,1149,UPI,INDORE
+ORD000905,USR0072,2024-04-21 23:17,Sticky Notes Multicolor Pack,Books & Stationery,1,230,Credit Card,Srinagar
+ORD000906,USR0093,2024-10-31 21:43,Dustbin with Lid 10L,Home & Kitchen,1,669,UPI,Nagpur
+ORD000907,USR0069,2024-09-11 17:39,Classmate Notebook Pack of 6,Books & Stationery,1,340,Debit Card,Agra
+ORD000908,USR0088,2024-04-03 16:34,boAt Rockerz 450 Headphones,Electronics,4,1869,Credit Card,Patna
+ORD000909,USR0043,2024-08-31 18:33,Leggings,Fashion,2,630,UPI,Coimbatore
+ORD000910,USR0007,2024-11-18 22:20,Airtight Container Set,Home & Kitchen,3,960,Debit Card,Pune
+ORD000911,USR0204,2024-04-05 15:03,Diary / Planner 2025,Books & Stationery,1,270,UPI,Chennai
+ORD000912,USR0047,2024-05-31 02:37,Canvas Backpack,Accessories,1,809,Cash on Delivery,Mumbai
+ORD000913,USR0008,2024-10-15 22:51,Wall Clock Wooden,Home & Kitchen,3,779,Debit Card,Srinagar
+ORD000914,USR0022,2024-12-12 22:58,Nivia Football Size 5,Sports & Fitness,1,1389,UPI,Lucknow
+ORD000915,USR0047,2024-04-25 03:25,Leather Wallet,Accessories,1,560,UPI,Mumbai
+ORD000916,USR0101,2024-11-01 12:08,Nykaa Lip Gloss Set,Beauty & Personal Care,1,490,UPI,Nagpur
+ORD000917,USR0089,2024-07-13 20:53,WOW Vitamin C Serum,Beauty & Personal Care,5,719,Credit Card,Visakhapatnam
+ORD000918,USR0010,2024-08-14 00:45,Parker Pen Gift Set,Books & Stationery,2,819,UPI,Agra
+ORD000919,USR0014,2025-03-09 02:43,Leggings,Fashion,2,299,UPI,Agra
+ORD000920,USR0010,2024-06-16 02:02,Protein Shaker Bottle,Sports & Fitness,1,570,Debit Card,Agra
+ORD000921,USR0057,2024-06-24 05:34,Running Shoes Men,Sports & Fitness,1,3709,Cash on Delivery,Coimbatore
+ORD000922,USR0052,2024-08-30 06:16,Bamboo Cutting Board,Home & Kitchen,1,709,Credit Card,Hyderabad
+ORD000923,USR0006,2025-01-14 07:37,Ethnic Saree,Fashion,1,3000,UPI,Chennai
+ORD000924,USR0162,2024-07-26 09:41,Dumbbell Pair 5kg,Sports & Fitness,1,1359,UPI,Amritsar
+ORD000925,USR0068,2024-10-03 09:27,Nivia Football Size 5,Sports & Fitness,1,1119,EMI,Coimbatore
+ORD000926,USR0013,2024-12-19 21:37,Hoodie,Fashion,2,1520,UPI,Thane
+ORD000927,USR0002,2024-06-15 09:05,Sunglasses Aviator,Accessories,1,909,Cash on Delivery,Chennai
+ORD000928,USR0033,2024-08-28 14:48,Analog Wrist Watch,Accessories,2,1229,UPI,Hyderabad
+ORD000929,USR0091,2025-03-06 18:36,Cosco Skipping Rope,Sports & Fitness,1,417,UPI,Jaipur
+ORD000930,USR0067,2025-03-07 22:43,The Moms Co. Baby Wash,Beauty & Personal Care,3,510,UPI,Kolkata
+ORD000931,USR0066,2024-06-21 14:41,Portronics Power Bank 10000mAh,Electronics,1,1259,Debit Card,Amritsar
+ORD000932,USR0065,2024-11-24 10:50,Yoga Mat 6mm,Sports & Fitness,1,1059,Debit Card,Patna
+ORD000933,USR0234,2024-07-06 14:48,Nivia Football Size 5,Sports & Fitness,1,1299,Cash on Delivery,Indore
+ORD000934,USR0065,2025-02-21 14:02,Anarkali Suit,Fashion,2,2179,Debit Card,Patna
+ORD000935,USR0017,2024-07-04 05:33,Analog Wrist Watch,Accessories,4,929,UPI,Pune
+ORD000936,USR0080,2025-01-08 15:48,Lakme Foundation,Beauty & Personal Care,2,530,Debit Card,Delhi
+ORD000937,USR0012,2024-12-14 21:50,boAt Rockerz 450 Headphones,Electronics,1,1699,UPI,Rajkot
+ORD000938,USR0202,2024-04-20 22:51,Redmi 12C Smartphone,Electronics,1,9469,UPI,Coimbatore
+ORD000939,USR0021,2024-04-27 12:50,Running Shoes Men,Sports & Fitness,5,2500,Credit Card,Vadodara
+ORD000940,USR0029,2024-05-30 00:43,Himalaya Face Wash,Beauty & Personal Care,1,259,UPI,Indore
+ORD000941,USR0235,2024-06-13 11:51,Travel Pouch Set,Accessories,1,439,UPI,Vadodara
+ORD000942,USR0018,2024-12-24 04:53,Dumbbell Pair 5kg,Sports & Fitness,1,1559,Cash on Delivery,Kanpur
+ORD000943,USR0155,2025-02-12 21:03,Dumbbell Pair 5kg,Sports & Fitness,2,2370,UPI,Ahmedabad
+ORD000944,USR0010,2024-06-21 07:48,Non-Stick Tawa 30cm,Home & Kitchen,3,1180,Debit Card,Agra
+ORD000945,USR0012,2024-09-28 01:36,Anarkali Suit,Fashion,4,3619,UPI,Rajkot
+ORD000946,USR0219,2024-03-26 01:42,"Samsung 32"" LED TV",Electronics,3,17819,Debit Card,Hyderabad
+ORD000947,USR0003,2024-12-15 04:16,Cap / Baseball Hat,Accessories,1,389,UPI,Visakhapatnam
+ORD000948,USR0093,2024-09-05 23:59,Non-Stick Tawa 30cm,Home & Kitchen,1,630,UPI,Nagpur
+ORD000949,USR0119,2025-02-24 09:44,Camlin Watercolor Set,Books & Stationery,2,369,Cash on Delivery,Meerut
+ORD000950,USR0150,2024-04-13 08:16,Portronics Power Bank 10000mAh,Electronics,3,1602,Cash on Delivery,Kolkata
+ORD000951,USR0003,2024-07-22 05:35,Leather Wallet,Accessories,1,799,UPI,Visakhapatnam
+ORD000952,USR0045,2024-10-20 08:25,Bamboo Cutting Board,Home & Kitchen,2,429,Cash on Delivery,Amritsar
+ORD000953,USR0018,2025-03-10 02:41,Classmate Notebook Pack of 6,Books & Stationery,1,229,Debit Card,Kanpur
+ORD000954,USR0128,2024-10-22 00:44,Formal Shirt,Fashion,1,810,Debit Card,Rajkot
+ORD000955,USR0052,2025-01-25 19:22,Yoga Mat 6mm,Sports & Fitness,1,869,UPI,Hyderabad
+ORD000956,USR0020,2024-11-27 23:06,Protein Shaker Bottle,Sports & Fitness,2,380,Credit Card,Meerut
+ORD000957,USR0094,2024-07-12 23:30,Cosco Skipping Rope,Sports & Fitness,1,289,Credit Card,Patna
+ORD000958,USR0241,2024-03-31 03:22,Leggings,Fashion,1,299,UPI,Rajkot
+ORD000959,USR0188,2025-02-02 11:18,Denim Shorts,Fashion,2,1130,Credit Card,Amritsar
+ORD000960,USR0055,2024-10-21 01:52,Cosco Skipping Rope,Sports & Fitness,2,349,Debit Card,Lucknow
+ORD000961,USR0003,2024-07-01 22:17,Camlin Watercolor Set,Books & Stationery,1,430,Debit Card,Visakhapatnam
+ORD000962,USR0054,2024-05-14 00:00,Canvas Backpack,Accessories,1,2350,UPI,Jaipur
+ORD000963,USR0066,2024-07-15 20:38,Parker Pen Gift Set,Books & Stationery,1,790,UPI,Amritsar
+ORD000964,USR0130,2024-04-15 10:03,Portronics Power Bank 10000mAh,Electronics,2,1559,UPI,Agra
+ORD000965,USR0005,2024-08-18 08:19,Casual T-Shirt,Fashion,1,850,Debit Card,Varanasi
+ORD000966,USR0002,2024-10-29 13:53,"Samsung 32"" LED TV",Electronics,1,18820,Debit Card,Chennai
+ORD000967,USR0205,2024-07-16 16:33,Yoga Mat 6mm,Sports & Fitness,5,620,UPI,Srinagar
+ORD000968,USR0010,2024-10-08 22:56,Himalaya Face Wash,Beauty & Personal Care,1,280,Credit Card,Agra
+ORD000969,USR0093,2024-12-26 23:04,Stainless Steel Water Bottle,Accessories,4,590,Credit Card,Nagpur
+ORD000970,USR0081,2024-11-25 14:59,Diary / Planner 2025,Books & Stationery,1,304,Debit Card,Ludhiana
+ORD000971,USR0105,2024-07-12 08:22,Biotique Sunscreen SPF 50,Beauty & Personal Care,2,310,UPI,Coimbatore
+ORD000972,USR0198,2024-10-17 12:39,Hair Clip Set,Accessories,1,389,UPI,Chennai
+ORD000973,USR0032,2024-06-17 18:38,Non-Stick Tawa 30cm,Home & Kitchen,2,1139,EMI,Aurangabad
+ORD000974,USR0106,2024-03-27 03:46,Classmate Notebook Pack of 6,Books & Stationery,3,310,UPI,Vadodara
+ORD000975,USR0072,2024-09-03 00:14,Men's Slim Fit Jeans,Fashion,1,2170,UPI,SRINAGAR
+ORD000976,USR0028,2024-03-20 17:07,Lakme Foundation,Beauty & Personal Care,3,880,EMI,Agra
+ORD000977,USR0044,2024-11-15 18:45,Cushion Cover Set of 5,Home & Kitchen,2,789,Credit Card,Meerut
+ORD000978,USR0018,2024-07-06 04:41,Nivia Football Size 5,Sports & Fitness,5,1259,EMI,Kanpur
+ORD000979,USR0046,2024-03-24 05:32,Women's Kurti,Fashion,2,659,Credit Card,Vadodara
+ORD000980,USR0015,2024-12-17 23:13,Parker Pen Gift Set,Books & Stationery,4,590,Debit Card,Nashik
+ORD000981,USR0008,2024-11-04 21:55,Men's Slim Fit Jeans,Fashion,2,1620,UPI,Srinagar
+ORD000982,USR0028,2024-11-15 05:43,Non-Stick Tawa 30cm,Home & Kitchen,2,1250,Cash on Delivery,Agra
+ORD000983,USR0017,2024-06-22 00:17,Parker Pen Gift Set,Books & Stationery,1,999,UPI,Pune
+ORD000984,USR0012,2024-11-07 15:22,Parker Pen Gift Set,Books & Stationery,1,1009,UPI,Rajkot
+ORD000985,USR0020,2024-12-22 19:59,Analog Wrist Watch,Accessories,1,979,UPI,Meerut
+ORD000986,USR0058,2024-09-24 00:53,Parker Pen Gift Set,Books & Stationery,2,1019,Credit Card,Rajkot
+ORD000987,USR0020,2024-06-20 03:43,Non-Stick Tawa 30cm,Home & Kitchen,3,859,Debit Card,Meerut
+ORD000988,USR0180,2024-06-25 02:43,Cap / Baseball Hat,Accessories,1,379,UPI,Pune
+ORD000989,USR0001,2025-01-29 04:31,Lenovo Wired Keyboard,Electronics,1,837,Debit Card,Nagpur
+ORD000990,USR0009,2024-09-02 12:38,Analog Wrist Watch,Accessories,2,1359,Credit Card,Indore
+ORD000991,USR0094,2024-04-26 23:00,Resistance Bands Set,Sports & Fitness,1,605,UPI,Patna
+ORD000992,USR0167,2024-12-16 08:52,Cosco Skipping Rope,Sports & Fitness,2,239,UPI,Patna
+ORD000993,USR0118,2025-02-21 04:20,JBL Go 3 Bluetooth Speaker,Electronics,1,3480,Debit Card,Nashik
+ORD000994,USR0187,2025-02-04 08:06,Denim Shorts,Fashion,3,770,Credit Card,Ludhiana
+ORD000995,USR0034,2024-09-15 11:33,Fitness Band Strap,Accessories,1,343,EMI,Visakhapatnam
+ORD000996,USR0062,2024-12-08 23:21,Wall Clock Wooden,Home & Kitchen,1,1840,UPI,Nashik
+ORD000997,USR0035,2024-06-13 10:55,Sticky Notes Multicolor Pack,Books & Stationery,3,180,Credit Card,Chennai
+ORD000998,USR0013,2024-12-11 05:14,Ethnic Saree,Fashion,2,2360,Credit Card,Thane
+ORD000999,USR0095,2024-06-04 19:45,The Moms Co. Baby Wash,Beauty & Personal Care,4,419,EMI,Surat
+ORD001000,USR0002,2024-12-01 04:13,Himalaya Face Wash,Beauty & Personal Care,1,229,UPI,Chennai
