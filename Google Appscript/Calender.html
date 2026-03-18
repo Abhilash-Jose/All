@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 40px auto; padding: 20px; }
+    .header { text-align: center; border-bottom: 2px solid #4285F4; padding-bottom: 20px; margin-bottom: 30px; }
+    h1 { color: #4285F4; margin: 0; }
+    .step { background: #f9f9f9; padding: 15px; border-left: 5px solid #4285F4; margin-bottom: 15px; border-radius: 4px; page-break-inside: avoid; }
+    .step-title { font-weight: bold; color: #1a73e8; font-size: 1.1em; }
+    
+    .code-block { 
+        background: #fdfdfd; 
+        color: #222; 
+        border: 1px solid #ccc;
+        padding: 20px; 
+        border-radius: 8px; 
+        font-size: 11px; 
+        line-height: 1.4;
+        margin-top: 20px;
+        white-space: pre-wrap;       /* Prevents scrolling */
+        word-wrap: break-word;       /* Breaks long lines for PDF */
+        overflow: visible !important; 
+    }
+    
+    .comment { color: #008000; font-style: italic; } /* Green comments for clarity */
+    .warning { background: #fff3cd; border-left: 5px solid #ffc107; padding: 15px; margin: 20px 0; border-radius: 4px; page-break-inside: avoid; }
+    .footer { text-align: center; font-size: 0.8em; color: #777; margin-top: 50px; border-top: 1px solid #eee; padding-top: 10px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Google Calendar Audit Tool</h1>
+    <p>Complete Installation & Technical Code Guide</p>
+</div>
+
+<h2>1. Instructions</h2>
+
+<div class="step">
+    <span class="step-title">Step 1: Open Google Sheets</span><br>
+    Create a new blank sheet. Go to <strong>Extensions &gt; Apps Script</strong>.
+</div>
+
+<div class="step">
+    <span class="step-title">Step 2: Save the Script</span><br>
+    Delete any placeholder code. Paste the block below into the editor. Click the <strong>Save icon</strong> and name it "CalendarAudit".
+</div>
+
+<div class="step">
+    <span class="step-title">Step 3: Authorize</span><br>
+    Refresh your Sheet. Click the new <strong>"My Audit Tools"</strong> menu. Follow the Google prompts to "Allow" access (use 'Advanced' settings if prompted).
+</div>
+
+<h2>2. The Commented Script</h2>
+
+<div class="code-block">
+<span class="comment">/**
+ * 1. THE TRIGGER
+ * This function creates a custom menu tab at the top of your Google Sheet 
+ * as soon as the file is opened or refreshed.
+ */</span>
+function onOpen() {
+  var ui = SpreadsheetApp.getUi();
+  ui.createMenu('My Audit Tools')
+      .addItem('Audit Calendar (Export Events)', 'promptForCalendar')
+      .addToUi();
+}
+
+<span class="comment">/**
+ * 2. THE INPUT DIALOGUE
+ * This function triggers a popup box to ask you how many days you want to scan.
+ * It converts your text input into a number for the computer to process.
+ */</span>
+function promptForCalendar() {
+  var ui = SpreadsheetApp.getUi();
+  var response = ui.prompt('Calendar Audit', 'How many days into the future should I look?', ui.ButtonSet.OK_CANCEL);
+
+  if (response.getSelectedButton() == ui.Button.OK) {
+    var days = parseInt(response.getResponseText()); <span class="comment">// Turn text into a number</span>
+    if (isNaN(days) || days < 1) {
+      ui.alert('Please enter a valid number.');
+    } else {
+      runCalendarAudit(days); <span class="comment">// Pass that number to the main logic below</span>
+    }
+  }
+}
+
+<span class="comment">/**
+ * 3. THE DATA EXPORTER
+ * This is the "brain" of the tool. It clears your sheet, connects to 
+ * your calendar, calculates hours, and writes everything row-by-row.
+ */</span>
+function runCalendarAudit(days) {
+  var sheet = SpreadsheetApp.getActiveSheet();
+  sheet.clear(); <span class="comment">// Wipe previous data to start fresh</span>
+  
+  <span class="comment">// Create bold headers for the top of the columns</span>
+  var headers = ["Event Title", "Start Time", "End Time", "Duration (Hrs)", "All Day?", "Location", "My Status"];
+  sheet.appendRow(headers);
+  sheet.getRange(1, 1, 1, headers.length).setFontWeight("bold").setBackground("#eeeeee");
+
+  <span class="comment">// Calculate the timeframe (Starting from right now)</span>
+  var start = new Date();
+  var end = new Date();
+  end.setDate(end.getDate() + days);
+
+  <span class="comment">// Access your personal Google Calendar and fetch all events in the range</span>
+  var calendar = CalendarApp.getDefaultCalendar();
+  var events = calendar.getEvents(start, end);
+  var eventList = [];
+
+  <span class="comment">// Loop through every single event found</span>
+  for (var i = 0; i < events.length; i++) {
+    var e = events[i];
+    var myStatus = "";
+    
+    <span class="comment">// Check if you accepted the meeting or if you are the organizer</span>
+    try { myStatus = e.getMyStatus(); } catch(err) { myStatus = "Owner"; }
+
+    <span class="comment">// Math: Convert the difference between start/end from milliseconds to hours</span>
+    var duration = e.isAllDayEvent() ? "24" : ((e.getEndTime() - e.getStartTime()) / (3600000)).toFixed(2);
+
+    <span class="comment">// Add this event's data to our temporary storage list</span>
+    eventList.push([
+      e.getTitle(),
+      e.getStartTime(),
+      e.getEndTime(),
+      duration,
+      e.isAllDayEvent(),
+      e.getLocation(),
+      myStatus
+    ]);
+  }
+
+  <span class="comment">// If we found events, paste the whole list into the sheet at once</span>
+  if (eventList.length > 0) {
+    sheet.getRange(2, 1, eventList.length, eventList[0].length).setValues(eventList);
+    SpreadsheetApp.getUi().alert('Success! Found ' + eventList.length + ' events.');
+  } else {
+    SpreadsheetApp.getUi().alert('No events found for this timeframe.');
+  }
+}
+</div>
+
+<div class="footer">
+    Documentation for Google Workspace &copy; 2026
+</div>
+
+</body>
+</html>
